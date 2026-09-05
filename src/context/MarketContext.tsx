@@ -8,16 +8,17 @@ import {
 } from 'react';
 import { loadMarketSnapshot, syncMarketCache, type MarketSnapshot } from '@/services/apiBridge';
 import { marketPrices } from '@/config/marketPrices';
+import type { MappedRemotePrice } from '@/services/remotePrices';
 
 // ─────────────────────────────────────────────────────────────
 // MARKET CONTEXT — Merkezi veri sağlayıcı
 //
 // Arayüzdeki tüm komponentler (Gösterge Paneli, Emtia Analizi,
 // Teknik Analiz, Karşılaştırma) veriyi sadece buradan tüketir.
-// Hiçbir komponent verinin nereden geldiğini (local/remote/cache)
-// bilmez. İleride canlı borsa API'si entegre edildiğinde sadece
-// apiBridge.ts içindeki REMOTE_API_URL ve mapRemotePayload
-// değişecek; arayüzdeki tek satır kod değişmeyecek.
+// Hiçbir komponent verinin nereden geldiğini (GitHub/local/cache)
+// bilmez. GitHub'daki prices.json güncellendiğinde sadece
+// apiBridge.ts içindeki fetchRemote değişir; arayüzdeki tek
+// satır kod değişmez.
 //
 // Girdi Maliyet Endeksi = 5 alt endeksin (gübre + mazot + tohum
 // + sulama + işçilik) aritmetik ortalaması — saniyelik dalgalanmayla
@@ -49,6 +50,8 @@ export interface MarketData {
   iscilik: IscilikState;
   girdiMaliyet: IndexState;
   snapshot: MarketSnapshot;
+  remotePrices: MappedRemotePrice[];
+  dataSource: 'local' | 'remote' | 'cache';
 }
 
 interface MarketContextValue {
@@ -85,6 +88,8 @@ const initialData: MarketData = {
   },
   girdiMaliyet: makeIndex(marketPrices.indices.girdiMaliyet),
   snapshot: initialSnapshot,
+  remotePrices: [],
+  dataSource: 'local',
 };
 
 const MarketContext = createContext<MarketContextValue>({
@@ -129,6 +134,8 @@ export function MarketProvider({ children }: { children: ReactNode }) {
           surekliAylik: snap.iscilik.surekliAylik ?? prev.iscilik.surekliAylik,
         },
         snapshot: snap,
+        remotePrices: snap.remotePrices ?? [],
+        dataSource: snap.source,
       }));
       setLoading(false);
     });
@@ -142,6 +149,21 @@ export function MarketProvider({ children }: { children: ReactNode }) {
     const onOnline = () => syncMarketCache();
     window.addEventListener('online', onOnline);
     return () => window.removeEventListener('online', onOnline);
+  }, []);
+
+  // 5 dakikada bir remote veriyi sessizce yenile
+  useEffect(() => {
+    const interval = setInterval(() => {
+      loadMarketSnapshot().then((snap) => {
+        setData((prev) => ({
+          ...prev,
+          snapshot: snap,
+          remotePrices: snap.remotePrices ?? [],
+          dataSource: snap.source,
+        }));
+      });
+    }, 5 * 60 * 1000);
+    return () => clearInterval(interval);
   }, []);
 
   // Saniyelik canlı dalgalanma — 5 endeks + girdi maliyet ortalaması

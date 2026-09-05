@@ -1,28 +1,25 @@
 import { marketPrices } from '@/config/marketPrices';
+import { fetchAllRemotePrices, matchProductToCommodityId, type MappedRemotePrice } from '@/services/remotePrices';
 
 // ─────────────────────────────────────────────────────────────
 // API BRIDGE — Offline-First veri köprüsü
 //
-// LIVE_DATA_MODE = false → yerel marketPrices.ts dosyasından okur
-// LIVE_DATA_MODE = true  → uzak API/JSON endpoint'inden çekmeye çalışır
-//                          (gelecekte Supabase veya GitHub JSON bağlanacak)
+// LIVE_DATA_MODE = true → GitHub'daki prices.json dosyasından
+//                         ürün fiyatlarını çeker ve mevcut verilerle
+//                         birleştirir.
+// LIVE_DATA_MODE = false → sadece yerel marketPrices.ts'den okur
 //
-// İnternet koptuğunda veya API çöktüğünde sistem asla hata vermez;
-// localStorage içindeki en son kaydedilmiş (cached) veriyi kullanır.
+// İnternet koptuğunda veya GitHub erişilemediğinde sistem asla
+// hata vermez; localStorage içindeki en son kaydedilmiş veriyi
+// kullanır ve yerel fallback'e düşer.
 // ─────────────────────────────────────────────────────────────
 
-export const LIVE_DATA_MODE = false;
+export const LIVE_DATA_MODE = true;
 
-// Gelecekte canlı API adresi buraya yazılacak
-const REMOTE_API_URL = '';
-
-const CACHE_KEY = 'tarim_piyasa_cache_v1';
+const CACHE_KEY = 'tarim_piyasa_cache_v2';
 const CACHE_TTL_MS = 1000 * 60 * 60; // 1 saat
 
 // ── Uzak API'den dönecek jenerik veri yapısı ──────────────────
-// İleride lisanslı borsa API'si entegre edildiğinde, bu interface'in
-// yapısını değiştirmeden sadece mapRemotePayload fonksiyonunu güncellemek
-// yeterli olacak. Arayüzdeki hiçbir komponent değişmeyecek.
 export interface RemoteMarketPayload {
   indices: Record<string, number>;
   commodities: Record<string, { price: number; unit: string }>;
@@ -36,6 +33,7 @@ export interface MarketSnapshot {
   iscilik: { mevsimlikGunluk: number; surekliAylik: number };
   timestamp: string;
   source: 'local' | 'remote' | 'cache';
+  remotePrices?: MappedRemotePrice[];
 }
 
 // ── Yerel fallback anlık görüntüsü ────────────────────────────
@@ -71,32 +69,34 @@ function writeCache(snapshot: MarketSnapshot): void {
   }
 }
 
-// ── Uzak API'den veri çek + jenerik map ───────────────────────
-// Gelecekte farklı borsa API'lerinden dönen farklı formatları
-// bu fonksiyon içinde RemoteMarketPayload'a dönüştürürüz.
-// Arayüz katmanı sadece MarketSnapshot tipini görür.
+// ── GitHub JSON'den veri çek + mevcut commodities ile birleştir ─
 async function fetchRemote(): Promise<MarketSnapshot | null> {
-  if (!LIVE_DATA_MODE || !REMOTE_API_URL) return null;
+  if (!LIVE_DATA_MODE) return null;
 
   try {
-    const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 5000);
+    const { prices: remotePrices, source } = await fetchAllRemotePrices();
 
-    const res = await fetch(REMOTE_API_URL, {
-      signal: controller.signal,
-      headers: { 'Content-Type': 'application/json' },
-    });
-    clearTimeout(timeout);
+    if (source === 'local' || remotePrices.length === 0) return null;
 
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    // Remote fiyatları mevcut commodity ID'leriyle eşleştir
+    const mergedCommodities = { ...marketPrices.commodities };
+    for (const rp of remotePrices) {
+      const commodityId = matchProductToCommodityId(rp.product);
+      if (commodityId && mergedCommodities[commodityId as keyof typeof mergedCommodities]) {
+        mergedCommodities[commodityId as keyof typeof mergedCommodities] = {
+          price: rp.price,
+          unit: rp.unit,
+        };
+      }
+    }
 
-    const payload = (await res.json()) as RemoteMarketPayload;
     const snapshot: MarketSnapshot = {
-      indices: payload.indices ?? { ...marketPrices.indices },
-      commodities: payload.commodities ?? { ...marketPrices.commodities },
-      iscilik: payload.iscilik ?? { ...marketPrices.iscilik },
-      timestamp: payload.timestamp ?? new Date().toISOString(),
+      indices: { ...marketPrices.indices },
+      commodities: mergedCommodities,
+      iscilik: { ...marketPrices.iscilik },
+      timestamp: new Date().toISOString(),
       source: 'remote',
+      remotePrices,
     };
 
     writeCache(snapshot);
