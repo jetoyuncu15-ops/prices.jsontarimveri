@@ -1,6 +1,7 @@
 import { useEffect, useState, useMemo } from 'react';
 import { Store, RefreshCw, AlertCircle, TrendingUp, TrendingDown, Calendar, MapPin, ChevronDown, Search, ArrowRight } from 'lucide-react';
 import { fetchKonyaHalFiyatlari, type HalFiyat } from '@/services/konyaHal';
+import { fetchAntalyaHalFiyatlari } from '@/services/antalyaHal';
 import { matchCommodityId } from '@/lib/mockData';
 import { useNav } from '@/App';
 import { cn } from '@/lib/cn';
@@ -9,15 +10,15 @@ interface MarketSource {
   id: string;
   name: string;
   city: string;
-  type: 'ckan' | 'mock';
+  type: 'ckan' | 'mock' | 'github';
   description: string;
 }
 
 const MARKETS: MarketSource[] = [
   { id: 'konya', name: 'Konya Toptancı Hal', city: 'Konya', type: 'ckan', description: 'Konya Büyükşehir Açık Veri Portalı (canlı)' },
+  { id: 'antalya', name: 'Antalya Toptancı Hal', city: 'Antalya', type: 'github', description: 'Antalya Hal Bülteni (GitHub JSON — canlı)' },
   { id: 'izmir', name: 'İzmir Toptancı Hal', city: 'İzmir', type: 'mock', description: 'İzmir Hal Bülteni (örnek veri)' },
   { id: 'istanbul', name: 'İstanbul Toptancı Hal', city: 'İstanbul', type: 'mock', description: 'İstanbul Hal Bülteni (örnek veri)' },
-  { id: 'antalya', name: 'Antalya Toptancı Hal', city: 'Antalya', type: 'mock', description: 'Antalya Hal Bülteni (örnek veri)' },
 ];
 
 const MOCK_MARKET_DATA: Record<string, HalFiyat[]> = {
@@ -81,6 +82,17 @@ export function HalPiyasalari() {
       setIsReal(false);
       setSource(`${market.name} — örnek veri`);
       setTimestamp(new Date().toISOString());
+      setLoading(false);
+      return;
+    }
+
+    if (market.type === 'github') {
+      const res = await fetchAntalyaHalFiyatlari();
+      setData(res.prices);
+      setIsReal(res.isReal);
+      setSource(res.source);
+      setTimestamp(res.timestamp);
+      if (res.error && !res.isReal) setError(res.error);
       setLoading(false);
       return;
     }
@@ -165,7 +177,7 @@ export function HalPiyasalari() {
                     >
                       <div>
                         <div className="font-medium">{m.name}</div>
-                        <div className="text-[11px] text-slate-600">{m.city} · {m.type === 'ckan' ? 'Canlı veri' : 'Örnek veri'}</div>
+                        <div className="text-[11px] text-slate-600">{m.city} · {m.type === 'ckan' ? 'Canlı veri' : m.type === 'github' ? 'GitHub JSON' : 'Örnek veri'}</div>
                       </div>
                       {m.id === selectedMarketId && <TrendingUp className="h-4 w-4" />}
                     </button>

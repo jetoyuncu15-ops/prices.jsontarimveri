@@ -59,10 +59,10 @@
     ]
   },
   {
-    category: "Meyveler",
-    market: "Antalya Toptancı Hali",
-    date: "15 Ağustos 2026",
-    items": [
+    "category": "Meyveler",
+    "market": "Antalya Toptancı Hali",
+    "date": "15 Ağustos 2026",
+    "items": [
       { "product": "Armut (Santamariya)", "unit": "Kg", "minPrice": "60 TL", "maxPrice": "120 TL" },
       { "product": "Elma (Golden)", "unit": "Kg", "minPrice": "50 TL", "maxPrice": "100 TL" },
       { "product": "Elma (Grannysmith)", "unit": "Kg", "minPrice": "60 TL", "maxPrice": "110 TL" },
@@ -86,10 +86,10 @@
     ]
   },
   {
-    category: "İthal Ürünler",
-    market: "Antalya Toptancı Hali",
-    date: "15 Ağustos 2026",
-    items": [
+    "category": "İthal Ürünler",
+    "market": "Antalya Toptancı Hali",
+    "date": "15 Ağustos 2026",
+    "items": [
       { "product": "Altınçilek", "unit": "Pk/125 Gr", "minPrice": "50 TL", "maxPrice": "90 TL" },
       { "product": "Ahududu", "unit": "Pk/125 Gr", "minPrice": "100 TL", "maxPrice": "130 TL" },
       { "product": "Böğürtlen", "unit": "Pk/125 Gr", "minPrice": "40 TL", "maxPrice": "80 TL" },

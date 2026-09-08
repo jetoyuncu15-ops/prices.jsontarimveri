@@ -21,10 +21,12 @@ import {
   FileText,
 } from 'lucide-react';
 import { CandlestickChart as CandleChart, type ChartType, type Drawing } from '@/components/charts/CandlestickChart';
+import type { Candle } from '@/types';
+import { fetchAntalyaHalFiyatlari } from '@/services/antalyaHal';
 import { DrawingToolbar } from '@/components/DrawingToolbar';
 import { RsiChart, MacdChart } from '@/components/charts/IndicatorCharts';
 import { ProductDetailPanels } from '@/components/ProductDetailPanels';
-import { taSymbols, commodities } from '@/lib/mockData';
+import { taSymbols, commodities, type TaSymbol } from '@/lib/mockData';
 import { closesOf } from '@/lib/indicators';
 import { formatPct } from '@/lib/format';
 import { useNav } from '@/App';
@@ -46,9 +48,34 @@ const rangeLabels = [
 
 const STORAGE_PREFIX = 'tarimfinans_drawings_';
 
+function makeAntalyaCandles(id: string, price: number): Candle[] {
+  let seed = 0;
+  for (let i = 0; i < id.length; i += 1) seed = (seed * 31 + id.charCodeAt(i)) | 0;
+  const base = Math.max(price, 0.01);
+  let previous = base;
+  return Array.from({ length: 180 }, (_, index) => {
+    const wave = Math.sin((index + Math.abs(seed)) / 13) * base * 0.025;
+    const drift = (((seed + index * 17) % 11) - 5) * base * 0.0015;
+    const close = Math.max(base * 0.5, previous + wave * 0.08 + drift);
+    const open = previous;
+    const high = Math.max(open, close) + base * 0.008;
+    const low = Math.max(base * 0.4, Math.min(open, close) - base * 0.008);
+    previous = close;
+    const date = new Date('2026-09-05');
+    date.setDate(date.getDate() - (179 - index));
+    return { date: date.toISOString().slice(0, 10), open, high, low, close, volume: 1000 + index * 10 };
+  });
+}
+
+function slugifyProduct(name: string): string {
+  return name.toLowerCase().replaceAll('ı', 'i').replaceAll('ğ', 'g').replaceAll('ü', 'u').replaceAll('ş', 's').replaceAll('ö', 'o').replaceAll('ç', 'c').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+}
+
+
 export function TechnicalAnalysis() {
   const { technicalSymbolId } = useNav();
   const { data } = useMarket();
+  const [symbols, setSymbols] = useState<TaSymbol[]>(taSymbols);
   const { sulama: sulamaVeri, iscilik: iscilikVeri, tohum: tohumVeri, gubre: gubreVeri, mazot: mazotVeri } = data;
   const [symbolId, setSymbolId] = useState(technicalSymbolId ?? taSymbols[0].id);
   const [chartType, setChartType] = useState<ChartType>('candle');
@@ -80,8 +107,31 @@ export function TechnicalAnalysis() {
     return () => window.removeEventListener('keydown', onKey);
   }, [focusMode]);
 
-  const symbol = useMemo(() => taSymbols.find((s) => s.id === symbolId)!, [symbolId]);
+  const symbol = useMemo(() => symbols.find((s) => s.id === symbolId) ?? taSymbols[0], [symbols, symbolId]);
   const commodity = useMemo(() => commodities.find((c) => c.id === symbolId) ?? null, [symbolId]);
+
+  useEffect(() => {
+    let active = true;
+    fetchAntalyaHalFiyatlari().then((result) => {
+      if (!active || result.prices.length === 0) return;
+      const halSymbols = result.prices
+        .filter((price) => price.ortalamaFiyat > 0)
+        .map((price): TaSymbol => {
+          const id = `antalya-${slugifyProduct(price.urunAd)}`;
+          return {
+            id,
+            name: price.urunAd,
+            category: `Antalya Hal · ${price.turLabel}`,
+            unit: `₺/${price.birim}`,
+            candles: makeAntalyaCandles(id, price.ortalamaFiyat),
+          };
+        });
+      setSymbols([...taSymbols, ...halSymbols]);
+    });
+    return () => {
+      active = false;
+    };
+  }, []);
 
   // Borsa detaydan veya Dashboard'dan gelen sembol değişimiyle senkronize et
   useEffect(() => {
@@ -248,12 +298,12 @@ export function TechnicalAnalysis() {
                 className="ring-focus rounded-lg border border-ink-700 bg-ink-850 px-3 py-1.5 text-base font-semibold text-white"
               >
                 <optgroup label="Tarım Ürünleri">
-                  {taSymbols.filter((s) => s.category !== 'Endeks').map((s) => (
+                  {symbols.filter((s) => s.category !== 'Endeks').map((s) => (
                     <option key={s.id} value={s.id} className="bg-ink-900">{s.name}</option>
                   ))}
                 </optgroup>
                 <optgroup label="Tarım Endeksleri">
-                  {taSymbols.filter((s) => s.category === 'Endeks').map((s) => (
+                  {symbols.filter((s) => s.category === 'Endeks').map((s) => (
                     <option key={s.id} value={s.id} className="bg-ink-900">{s.name}</option>
                   ))}
                 </optgroup>
@@ -418,12 +468,12 @@ export function TechnicalAnalysis() {
                 className="ring-focus rounded-lg border border-ink-700 bg-ink-850 px-3 py-1.5 text-sm font-semibold text-white"
               >
                 <optgroup label="Tarım Ürünleri">
-                  {taSymbols.filter((s) => s.category !== 'Endeks').map((s) => (
+                  {symbols.filter((s) => s.category !== 'Endeks').map((s) => (
                     <option key={s.id} value={s.id} className="bg-ink-900">{s.name}</option>
                   ))}
                 </optgroup>
                 <optgroup label="Tarım Endeksleri">
-                  {taSymbols.filter((s) => s.category === 'Endeks').map((s) => (
+                  {symbols.filter((s) => s.category === 'Endeks').map((s) => (
                     <option key={s.id} value={s.id} className="bg-ink-900">{s.name}</option>
                   ))}
                 </optgroup>
