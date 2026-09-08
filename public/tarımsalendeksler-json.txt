@@ -1,0 +1,49 @@
+[
+  {
+    "category": "Tarım Endeksleri",
+    "baseYear": "2020=100",
+    "date": "24 Ağustos 2026",
+    "items": [
+      {
+        "indexName": "Girdi Maliyet Endeksi (Tarım-GFE)",
+        "subGroup": "Genel Endeks",
+        "score": "998,81",
+        "monthlyChange": "%0,92 Azalış",
+        "yearlyIncrease": "%32,06",
+        "trend": "down"
+      },
+      {
+        "indexName": "Mazot, Enerji ve Yağlar",
+        "subGroup": "TÜİK Alt Grubu",
+        "score": "-",
+        "monthlyChange": "Aylık Stabil / Hafif Düşüş",
+        "yearlyIncrease": "%40,75",
+        "trend": "down"
+      },
+      {
+        "indexName": "Tohum ve Dikim Materyali",
+        "subGroup": "TÜİK Alt Grubu",
+        "score": "-",
+        "monthlyChange": "Aylık Yatay",
+        "yearlyIncrease": "%34,94",
+        "trend": "up"
+      },
+      {
+        "indexName": "Sulama Elektriği (Enerji Kalemi)",
+        "subGroup": "Enerji Alt Grubu",
+        "score": "-",
+        "monthlyChange": "Aylık Sınırlı Azalış",
+        "yearlyIncrease": "%36,20 (Ortalama)",
+        "trend": "down"
+      },
+      {
+        "indexName": "Tarım İşçiliği Endeksi",
+        "subGroup": "Tarım-ÜFE Hizmet",
+        "score": "-",
+        "monthlyChange": "Dönemsel Artış",
+        "yearlyIncrease": "%28,50 (Tahmini)",
+        "trend": "up"
+      }
+    ]
+  }
+]s
