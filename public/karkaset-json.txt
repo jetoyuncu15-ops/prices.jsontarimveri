@@ -1,0 +1,53 @@
+{
+  "bolge_bazli_fiyatlar": [
+    {
+      "bolge": "Ege Bölgesi",
+      "dana_karkas_tl_kg": 595.00,
+      "kuzu_karkas_tl_kg": 670.00
+    },
+    {
+      "bolge": "Akdeniz Bölgesi",
+      "dana_karkas_tl_kg": 582.70,
+      "kuzu_karkas_tl_kg": 626.00
+    },
+    {
+      "bolge": "Marmara Bölgesi",
+      "dana_karkas_tl_kg": 596.70,
+      "kuzu_karkas_tl_kg": 695.00
+    },
+    {
+      "bolge": "İç Anadolu Bölgesi",
+      "dana_karkas_tl_kg": 582.50,
+      "kuzu_karkas_tl_kg": 595.00
+    },
+    {
+      "bolge": "Doğu Anadolu Bölgesi",
+      "dana_karkas_tl_kg": 585.00,
+      "kuzu_karkas_tl_kg": 580.00
+    },
+    {
+      "bolge": "Güneydoğu Anadolu Bölgesi",
+      "dana_karkas_tl_kg": 578.40,
+      "kuzu_karkas_tl_kg": 570.00
+    },
+    {
+      "bolge": "Karadeniz Bölgesi",
+      "dana_karkas_tl_kg": 598.75,
+      "kuzu_karkas_tl_kg": 655.00
+    }
+  ],
+  "genel_istatistikler": {
+    "turkiye_ortalamasi": {
+      "dana_karkas_tl_kg": 588.44,
+      "kuzu_karkas_tl_kg": 627.29
+    },
+    "gecen_aya_gore_degisim_yuzde": {
+      "dana_karkas": 0.9,
+      "kuzu_karkas": 3.2
+    },
+    "gecen_yila_gore_degisim_yuzde": {
+      "dana_karkas": 26.3,
+      "kuzu_karkas": 27.6
+    }
+  }
+}
