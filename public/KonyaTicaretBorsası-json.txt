@@ -1,0 +1,93 @@
+[
+  {
+    "urun": "Makarnalık Buğday",
+    "en_az": "15,0010 TL",
+    "en_cok": "18,0080 TL",
+    "ortalama": "16,2284 TL",
+    "miktar_kg": "761.000 KG"
+  },
+  {
+    "urun": "Beyaz Sert Buğday",
+    "en_az": "18,0870 TL",
+    "en_cok": "19,9900 TL",
+    "ortalama": "19,1584 TL",
+    "miktar_kg": "342.000 KG"
+  },
+  {
+    "urun": "Kırmızı Sert Buğday",
+    "en_az": "15,4010 TL",
+    "en_cok": "19,5760 TL",
+    "ortalama": "18,0471 TL",
+    "miktar_kg": "1.722.000 KG"
+  },
+  {
+    "urun": "Diğer Beyaz Buğday",
+    "en_az": "14,6010 TL",
+    "en_cok": "15,7060 TL",
+    "ortalama": "15,3611 TL",
+    "miktar_kg": "158.000 KG"
+  },
+  {
+    "urun": "Diğer Kırmızı Buğday",
+    "en_az": "13,5010 TL",
+    "en_cok": "18,8010 TL",
+    "ortalama": "16,4179 TL",
+    "miktar_kg": "875.000 KG"
+  },
+  {
+    "urun": "Arpa",
+    "en_az": "13,2180 TL",
+    "en_cok": "13,9270 TL",
+    "ortalama": "13,7268 TL",
+    "miktar_kg": "437.500 KG"
+  },
+  {
+    "urun": "Mısır",
+    "en_az": "15,2530 TL",
+    "en_cok": "17,0620 TL",
+    "ortalama": "16,4216 TL",
+    "miktar_kg": "130.000 KG"
+  },
+  {
+    "urun": "Yulaf",
+    "en_az": "16,3460 TL",
+    "en_cok": "16,3460 TL",
+    "ortalama": "16,3460 TL",
+    "miktar_kg": "12.000 KG"
+  },
+  {
+    "urun": "Tritikale",
+    "en_az": "14,2010 TL",
+    "en_cok": "14,2010 TL",
+    "ortalama": "14,2010 TL",
+    "miktar_kg": "7.500 KG"
+  },
+  {
+    "urun": "Nohut",
+    "en_az": "32,0010 TL",
+    "en_cok": "33,0050 TL",
+    "ortalama": "32,6855 TL",
+    "miktar_kg": "11.000 KG"
+  },
+  {
+    "urun": "Kuru Fasulye",
+    "en_az": "53,0000 TL",
+    "en_cok": "67,5010 TL",
+    "ortalama": "63,9149 TL",
+    "miktar_kg": "55.580 KG"
+  },
+  {
+    "urun": "Çavdar",
+    "en_az": "13,4000 TL",
+    "en_cok": "13,4000 TL",
+    "ortalama": "13,4000 TL",
+    "miktar_kg": "30.000 KG"
+  },
+  {
+    "urun": "Mercimek",
+    "en_az": "21,0010 TL",
+    "en_cok": "21,0010 TL",
+    "ortalama": "21,0010 TL",
+    "miktar_kg": "11.170 KG"
+  }
+]
