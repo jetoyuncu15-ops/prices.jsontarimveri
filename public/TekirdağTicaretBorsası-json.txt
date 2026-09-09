@@ -1,0 +1,170 @@
+[
+  {
+    urun_adi_cinsi Buğday,
+    en_dusuk_fiyat 13,46 ₺,
+    en_yuksek_fiyat 18,56 ₺,
+    ortalama_fiyat 15,63 ₺,
+    toplam_islem_miktari 1.775.671 Kg
+  },
+  {
+    urun_adi_cinsi Tohumluk Buğday,
+    en_dusuk_fiyat 15,25 ₺,
+    en_yuksek_fiyat 15,50 ₺,
+    ortalama_fiyat 15,38 ₺,
+    toplam_islem_miktari 43.110 Kg
+  },
+  {
+    urun_adi_cinsi Kırıklı Buğday,
+    en_dusuk_fiyat 12,50 ₺,
+    en_yuksek_fiyat 12,50 ₺,
+    ortalama_fiyat 12,50 ₺,
+    toplam_islem_miktari 8.340 Kg
+  },
+  {
+    urun_adi_cinsi Arpa,
+    en_dusuk_fiyat 11,80 ₺,
+    en_yuksek_fiyat 11,80 ₺,
+    ortalama_fiyat 11,80 ₺,
+    toplam_islem_miktari 27.700 Kg
+  },
+  {
+    urun_adi_cinsi Un,
+    en_dusuk_fiyat 18,17 ₺,
+    en_yuksek_fiyat 27,87 ₺,
+    ortalama_fiyat 22,68 ₺,
+    toplam_islem_miktari 3.100.000 Kg
+  },
+  {
+    urun_adi_cinsi Un (25 Kg Çuval),
+    en_dusuk_fiyat 618,81 ₺,
+    en_yuksek_fiyat 618,81 ₺,
+    ortalama_fiyat 618,81 ₺,
+    toplam_islem_miktari 2 Çuval
+  },
+  {
+    urun_adi_cinsi Buğday Kepeği,
+    en_dusuk_fiyat 11,32 ₺,
+    en_yuksek_fiyat 12,50 ₺,
+    ortalama_fiyat 12,21 ₺,
+    toplam_islem_miktari 1.609.520 Kg
+  },
+  {
+    urun_adi_cinsi Razmol,
+    en_dusuk_fiyat 12,57 ₺,
+    en_yuksek_fiyat 13,50 ₺,
+    ortalama_fiyat 12,88 ₺,
+    toplam_islem_miktari 123.060 Kg
+  },
+  {
+    urun_adi_cinsi Bonkalite,
+    en_dusuk_fiyat 13,00 ₺,
+    en_yuksek_fiyat 13,50 ₺,
+    ortalama_fiyat 13,23 ₺,
+    toplam_islem_miktari 127.580 Kg
+  },
+  {
+    urun_adi_cinsi Yerli Ayçiçek (Yağlık),
+    en_dusuk_fiyat 37,47 ₺,
+    en_yuksek_fiyat 40,73 ₺,
+    ortalama_fiyat 38,50 ₺,
+    toplam_islem_miktari 457.350 Kg
+  },
+  {
+    urun_adi_cinsi Yerli Kanola,
+    en_dusuk_fiyat 25,79 ₺,
+    en_yuksek_fiyat 25,79 ₺,
+    ortalama_fiyat 25,79 ₺,
+    toplam_islem_miktari 378.890 Kg
+  },
+  {
+    urun_adi_cinsi Yaş Üzüm,
+    en_dusuk_fiyat 66,39 ₺,
+    en_yuksek_fiyat 66,39 ₺,
+    ortalama_fiyat 66,39 ₺,
+    toplam_islem_miktari 4.363 Kg
+  },
+  {
+    urun_adi_cinsi Karpuz,
+    en_dusuk_fiyat 9,19 ₺,
+    en_yuksek_fiyat 9,19 ₺,
+    ortalama_fiyat 9,19 ₺,
+    toplam_islem_miktari 54.200 Kg
+  },
+  {
+    urun_adi_cinsi Kavun,
+    en_dusuk_fiyat 16,33 ₺,
+    en_yuksek_fiyat 16,34 ₺,
+    ortalama_fiyat 16,34 ₺,
+    toplam_islem_miktari 14.020 Kg
+  },
+  {
+    urun_adi_cinsi Armut,
+    en_dusuk_fiyat 38,56 ₺,
+    en_yuksek_fiyat 38,56 ₺,
+    ortalama_fiyat 38,56 ₺,
+    toplam_islem_miktari 206 Kg
+  },
+  {
+    urun_adi_cinsi Muz,
+    en_dusuk_fiyat 45,01 ₺,
+    en_yuksek_fiyat 47,84 ₺,
+    ortalama_fiyat 46,43 ₺,
+    toplam_islem_miktari 8.897 Kg
+  },
+  {
+    urun_adi_cinsi Domates,
+    en_dusuk_fiyat 10,76 ₺,
+    en_yuksek_fiyat 10,83 ₺,
+    ortalama_fiyat 10,80 ₺,
+    toplam_islem_miktari 65.800 Kg
+  },
+  {
+    urun_adi_cinsi Kırmızı Biber,
+    en_dusuk_fiyat 27,64 ₺,
+    en_yuksek_fiyat 37,28 ₺,
+    ortalama_fiyat 32,46 ₺,
+    toplam_islem_miktari 17.480 Kg
+  },
+  {
+    urun_adi_cinsi Kuru Soğan,
+    en_dusuk_fiyat 29,62 ₺,
+    en_yuksek_fiyat 29,62 ₺,
+    ortalama_fiyat 29,62 ₺,
+    toplam_islem_miktari 5.800 Kg
+  },
+  {
+    urun_adi_cinsi Sarımsak,
+    en_dusuk_fiyat 122,57 ₺,
+    en_yuksek_fiyat 122,57 ₺,
+    ortalama_fiyat 122,57 ₺,
+    toplam_islem_miktari 520 Kg
+  },
+  {
+    urun_adi_cinsi Lahana,
+    en_dusuk_fiyat 13,28 ₺,
+    en_yuksek_fiyat 13,28 ₺,
+    ortalama_fiyat 13,28 ₺,
+    toplam_islem_miktari 1.880 Adet
+  },
+  {
+    urun_adi_cinsi Kırmızı Lahana,
+    en_dusuk_fiyat 25,54 ₺,
+    en_yuksek_fiyat 25,54 ₺,
+    ortalama_fiyat 25,54 ₺,
+    toplam_islem_miktari 45 Kg
+  },
+  {
+    urun_adi_cinsi Maydanoz,
+    en_dusuk_fiyat 10,21 ₺,
+    en_yuksek_fiyat 10,21 ₺,
+    ortalama_fiyat 10,21 ₺,
+    toplam_islem_miktari 450 Kg
+  },
+  {
+    urun_adi_cinsi Kuzu (Canlı Baş),
+    en_dusuk_fiyat 17.520,63 ₺,
+    en_yuksek_fiyat 18.085,72 ₺,
+    ortalama_fiyat 17.803,18 ₺,
+    toplam_islem_miktari 103 Baş
+  }
+]
