@@ -1,0 +1,308 @@
+[
+  {
+    "urun_adi": "Antep Fıstığı",
+    "guncel_fiyat": 580.0,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 1.97
+  },
+  {
+    "urun_adi": "Armut",
+    "guncel_fiyat": 54.0,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 3.2
+  },
+  {
+    "urun_adi": "Arpa",
+    "guncel_fiyat": 13.09,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 2.66
+  },
+  {
+    "urun_adi": "Aspir",
+    "guncel_fiyat": 39.5,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": -1.2
+  },
+  {
+    "urun_adi": "Ayçiçeği",
+    "guncel_fiyat": 39.8,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 16.37
+  },
+  {
+    "urun_adi": "Bakla",
+    "guncel_fiyat": 49.6,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 6.4
+  },
+  {
+    "urun_adi": "Bal",
+    "guncel_fiyat": 247.26,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 0.19
+  },
+  {
+    "urun_adi": "Beze",
+    "guncel_fiyat": 36.01,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": -3.0
+  },
+  {
+    "urun_adi": "Bezelye",
+    "guncel_fiyat": 90.0,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 0.66
+  },
+  {
+    "urun_adi": "Buğday (Ekmeklik)",
+    "guncel_fiyat": 16.53,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 0.18
+  },
+  {
+    "urun_adi": "Buğday (Makarnalık)",
+    "guncel_fiyat": 16.77,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 1.63
+  },
+  {
+    "urun_adi": "Börülce",
+    "guncel_fiyat": 81.93,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": -8.8
+  },
+  {
+    "urun_adi": "Canlı Hayvan",
+    "guncel_fiyat": 411.19,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": -0.42
+  },
+  {
+    "urun_adi": "Darı",
+    "guncel_fiyat": 14.75,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 0.2
+  },
+  {
+    "urun_adi": "Elma",
+    "guncel_fiyat": 57.68,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 1.47
+  },
+  {
+    "urun_adi": "Kahve",
+    "guncel_fiyat": 420.5,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 0.5
+  },
+  {
+    "urun_adi": "Karpuz",
+    "guncel_fiyat": 10.35,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": -0.2
+  },
+  {
+    "urun_adi": "Kavun",
+    "guncel_fiyat": 21.2,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 0.4
+  },
+  {
+    "urun_adi": "Kuru Fasulye",
+    "guncel_fiyat": 61.66,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 17.44
+  },
+  {
+    "urun_adi": "Kuru Yaprak Kekik",
+    "guncel_fiyat": 259.76,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 1.11
+  },
+  {
+    "urun_adi": "Kuru Üzüm",
+    "guncel_fiyat": 87.26,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 0.44
+  },
+  {
+    "urun_adi": "Kuzu Göbeği Mantarı",
+    "guncel_fiyat": 5172.68,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 6.15
+  },
+  {
+    "urun_adi": "Kültür Mantarı",
+    "guncel_fiyat": 109.35,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 0.8
+  },
+  {
+    "urun_adi": "Kırmızı Mercimek",
+    "guncel_fiyat": 42.0,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 3.12
+  },
+  {
+    "urun_adi": "Marul",
+    "guncel_fiyat": 41.12,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 2.12
+  },
+  {
+    "urun_adi": "Mercimek",
+    "guncel_fiyat": 35.1,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 0.26
+  },
+  {
+    "urun_adi": "Mısır",
+    "guncel_fiyat": 13.5,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 71.97
+  },
+  {
+    "urun_adi": "Mısır (Konya/2.Grup)",
+    "guncel_fiyat": 17.0,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 36.54
+  },
+  {
+    "urun_adi": "Nohut",
+    "guncel_fiyat": 41.5,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 0.15
+  },
+  {
+    "urun_adi": "Palm Yağı",
+    "guncel_fiyat": 51.04,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 0.87
+  },
+  {
+    "urun_adi": "Pamuk",
+    "guncel_fiyat": 29.8,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 2.41
+  },
+  {
+    "urun_adi": "Pirinç",
+    "guncel_fiyat": 98.3,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 2.17
+  },
+  {
+    "urun_adi": "Salatalık",
+    "guncel_fiyat": 19.97,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 0.6
+  },
+  {
+    "urun_adi": "Salçalık Domates",
+    "guncel_fiyat": 3.45,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 0.32
+  },
+  {
+    "urun_adi": "Soya Fasulyesi",
+    "guncel_fiyat": 16.4,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 0.9
+  },
+  {
+    "urun_adi": "Soya Küspesi",
+    "guncel_fiyat": 15.02,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 0.85
+  },
+  {
+    "urun_adi": "Soya Yağı",
+    "guncel_fiyat": 60.61,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 0.64
+  },
+  {
+    "urun_adi": "Süt",
+    "guncel_fiyat": 24.3,
+    "birim": "₺/lt",
+    "gunluk_degisim_yuzde": 0.88
+  },
+  {
+    "urun_adi": "Tritikale",
+    "guncel_fiyat": 14.2,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 10.67
+  },
+  {
+    "urun_adi": "Trüf Mantarı",
+    "guncel_fiyat": 1800.0,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 0.45
+  },
+  {
+    "urun_adi": "Tütün",
+    "guncel_fiyat": 305.0,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 0.26
+  },
+  {
+    "urun_adi": "Yonca",
+    "guncel_fiyat": 11.1,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 0.97
+  },
+  {
+    "urun_adi": "Yulaf",
+    "guncel_fiyat": 16.35,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 22.01
+  },
+  {
+    "urun_adi": "Yumurta",
+    "guncel_fiyat": 3.05,
+    "birim": "₺/adet",
+    "gunluk_degisim_yuzde": 0.2
+  },
+  {
+    "urun_adi": "Zeytinyağı",
+    "guncel_fiyat": 320.0,
+    "birim": "₺/lt",
+    "gunluk_degisim_yuzde": 0.34
+  },
+  {
+    "urun_adi": "Çavdar",
+    "guncel_fiyat": 13.4,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 7.2
+  },
+  {
+    "urun_adi": "Çay",
+    "guncel_fiyat": 35.0,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 0.12
+  },
+  {
+    "urun_adi": "Çeltik",
+    "guncel_fiyat": 36.94,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 0.5
+  },
+  {
+    "urun_adi": "Çörek Otu",
+    "guncel_fiyat": 215.4,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 3.4
+  },
+  {
+    "urun_adi": "İstiridye Mantarı",
+    "guncel_fiyat": 165.0,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": 0.73
+  },
+  {
+    "urun_adi": "Şeker Pancarı",
+    "guncel_fiyat": 36.23,
+    "birim": "₺/kg",
+    "gunluk_degisim_yuzde": -0.14
+  }
+]
