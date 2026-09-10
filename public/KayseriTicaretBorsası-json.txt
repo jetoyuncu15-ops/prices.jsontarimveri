@@ -1,0 +1,79 @@
+[
+  {
+    "urun_adi_cinsi": "Arpa",
+    "en_dusuk_fiyat": "12.00 ₺",
+    "en_yuksek_fiyat": "12.00 ₺",
+    "ortalama_fiyat": "12.00 ₺",
+    "toplam_islem_miktari": "23.680 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Buğday",
+    "en_dusuk_fiyat": "14.60 ₺",
+    "en_yuksek_fiyat": "14.60 ₺",
+    "ortalama_fiyat": "14.60 ₺",
+    "toplam_islem_miktari": "30.920 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Et (Karkas Büyükbaş)",
+    "en_dusuk_fiyat": "559.27 ₺",
+    "en_yuksek_fiyat": "570.00 ₺",
+    "ortalama_fiyat": "566.39 ₺",
+    "toplam_islem_miktari": "13.344 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Kabak",
+    "en_dusuk_fiyat": "39.90 ₺",
+    "en_yuksek_fiyat": "39.90 ₺",
+    "ortalama_fiyat": "39.90 ₺",
+    "toplam_islem_miktari": "2.461 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Dut Kurusu",
+    "en_dusuk_fiyat": "204.08 ₺",
+    "en_yuksek_fiyat": "243.36 ₺",
+    "ortalama_fiyat": "224.23 ₺",
+    "toplam_islem_miktari": "6.480 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Domates",
+    "en_dusuk_fiyat": "39.90 ₺",
+    "en_yuksek_fiyat": "39.90 ₺",
+    "ortalama_fiyat": "39.90 ₺",
+    "toplam_islem_miktari": "4.129 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Patlıcan",
+    "en_dusuk_fiyat": "34.90 ₺",
+    "en_yuksek_fiyat": "34.90 ₺",
+    "ortalama_fiyat": "34.90 ₺",
+    "toplam_islem_miktari": "1.766 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Biber",
+    "en_dusuk_fiyat": "44.90 ₺",
+    "en_yuksek_fiyat": "44.90 ₺",
+    "ortalama_fiyat": "44.90 ₺",
+    "toplam_islem_miktari": "1.645 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Şeftali",
+    "en_dusuk_fiyat": "69.90 ₺",
+    "en_yuksek_fiyat": "69.90 ₺",
+    "ortalama_fiyat": "69.90 ₺",
+    "toplam_islem_miktari": "2.429 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Erik",
+    "en_dusuk_fiyat": "54.90 ₺",
+    "en_yuksek_fiyat": "54.90 ₺",
+    "ortalama_fiyat": "54.90 ₺",
+    "toplam_islem_miktari": "1.515 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Muz",
+    "en_dusuk_fiyat": "94.50 ₺",
+    "en_yuksek_fiyat": "94.50 ₺",
+    "ortalama_fiyat": "94.50 ₺",
+    "toplam_islem_miktari": "2.113 Kg"
+  }
+]
