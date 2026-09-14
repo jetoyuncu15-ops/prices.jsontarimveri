@@ -1,0 +1,297 @@
+[
+  {
+    "urun_adi": "Armut Döküntü",
+    "fiyat_araligi": "29.90 ₺",
+    "miktar_birim": "17,779 KG"
+  },
+  {
+    "urun_adi": "Armut Döküntü",
+    "fiyat_araligi": "37.32 ₺",
+    "miktar_birim": "4,173 KG"
+  },
+  {
+    "urun_adi": "Ay Çekirdeği",
+    "fiyat_araligi": "90.13 ₺",
+    "miktar_birim": "20,000 KG"
+  },
+  {
+    "urun_adi": "B.lahana",
+    "fiyat_araligi": "42.82 ₺ - 48.38 ₺",
+    "miktar_birim": "1,050 KG"
+  },
+  {
+    "urun_adi": "B.lahana",
+    "fiyat_araligi": "44.38 ₺",
+    "miktar_birim": "300 KG"
+  },
+  {
+    "urun_adi": "Barbunya",
+    "fiyat_araligi": "104.06 ₺",
+    "miktar_birim": "80 KG"
+  },
+  {
+    "urun_adi": "Böğürtlen",
+    "fiyat_araligi": "55.00 ₺",
+    "miktar_birim": "140 KG"
+  },
+  {
+    "urun_adi": "Böğürtlen",
+    "fiyat_araligi": "340.00 ₺",
+    "miktar_birim": "3 KG"
+  },
+  {
+    "urun_adi": "Capya Biber",
+    "fiyat_araligi": "52.00 ₺",
+    "miktar_birim": "7,582 KG"
+  },
+  {
+    "urun_adi": "Damızlık Dana",
+    "fiyat_araligi": "203.000,00 ₺",
+    "miktar_birim": "1 AD"
+  },
+  {
+    "urun_adi": "Damızlık Kuzu",
+    "fiyat_araligi": "41.666,75 ₺",
+    "miktar_birim": "12 AD"
+  },
+  {
+    "urun_adi": "Damızlık Sığır",
+    "fiyat_araligi": "172.420,63 ₺",
+    "miktar_birim": "8 AD"
+  },
+  {
+    "urun_adi": "Dana Eti",
+    "fiyat_araligi": "486.09 ₺ - 763.88 ₺",
+    "miktar_birim": "21,107 KG"
+  },
+  {
+    "urun_adi": "Dolmalık Biber",
+    "fiyat_araligi": "32.49 ₺",
+    "miktar_birim": "55,898 KG"
+  },
+  {
+    "urun_adi": "Domates",
+    "fiyat_araligi": "32.98 ₺ - 36.22 ₺",
+    "miktar_birim": "26,000 KG"
+  },
+  {
+    "urun_adi": "Domates",
+    "fiyat_araligi": "29.29 ₺",
+    "miktar_birim": "6,866 KG"
+  },
+  {
+    "urun_adi": "Düve Eti",
+    "fiyat_araligi": "635.66 ₺",
+    "miktar_birim": "1,259 KG"
+  },
+  {
+    "urun_adi": "Elma Döküntü",
+    "fiyat_araligi": "5.35 ₺ - 55.00 ₺",
+    "miktar_birim": "3,827,348 KG"
+  },
+  {
+    "urun_adi": "Elma Döküntü",
+    "fiyat_araligi": "41.57 ₺ - 55.00 ₺",
+    "miktar_birim": "6,550 KG"
+  },
+  {
+    "urun_adi": "Erik",
+    "fiyat_araligi": "68.98 ₺",
+    "miktar_birim": "405 KG"
+  },
+  {
+    "urun_adi": "Erik Döküntü",
+    "fiyat_araligi": "20.86 ₺ - 50.00 ₺",
+    "miktar_birim": "6,278 KG"
+  },
+  {
+    "urun_adi": "Greyfurt Döküntü",
+    "fiyat_araligi": "24.78 ₺",
+    "miktar_birim": "185 KG"
+  },
+  {
+    "urun_adi": "Greyfurt Döküntü",
+    "fiyat_araligi": "25.04 ₺",
+    "miktar_birim": "607 KG"
+  },
+  {
+    "urun_adi": "Havuç",
+    "fiyat_araligi": "44.55 ₺",
+    "miktar_birim": "800 KG"
+  },
+  {
+    "urun_adi": "Havuç / Süs Bitkisi",
+    "fiyat_araligi": "14.84 ₺ - 122.93 ₺",
+    "miktar_birim": "13,667 KG"
+  },
+  {
+    "urun_adi": "Karpuz",
+    "fiyat_araligi": "12.41 ₺ - 19.60 ₺",
+    "miktar_birim": "15,660 KG"
+  },
+  {
+    "urun_adi": "Karpuz",
+    "fiyat_araligi": "14.00 ₺",
+    "miktar_birim": "6,019 KG"
+  },
+  {
+    "urun_adi": "Kavun",
+    "fiyat_araligi": "22.64 ₺ - 44.10 ₺",
+    "miktar_birim": "25,029 KG"
+  },
+  {
+    "urun_adi": "Kavun",
+    "fiyat_araligi": "29.80 ₺",
+    "miktar_birim": "566 KG"
+  },
+  {
+    "urun_adi": "Kayısı",
+    "fiyat_araligi": "95.12 ₺",
+    "miktar_birim": "281 KG"
+  },
+  {
+    "urun_adi": "Kayısı Döküntü",
+    "fiyat_araligi": "28.17 ₺ - 39.81 ₺",
+    "miktar_birim": "3,174 KG"
+  },
+  {
+    "urun_adi": "Kayısı Döküntü",
+    "fiyat_araligi": "12.16 ₺",
+    "miktar_birim": "401,019 KG"
+  },
+  {
+    "urun_adi": "Kiraz",
+    "fiyat_araligi": "90.00 ₺",
+    "miktar_birim": "29 KG"
+  },
+  {
+    "urun_adi": "Kiraz Döküntü",
+    "fiyat_araligi": "55.00 ₺",
+    "miktar_birim": "115 KG"
+  },
+  {
+    "urun_adi": "Kivi",
+    "fiyat_araligi": "121.89 ₺",
+    "miktar_birim": "66 KG"
+  },
+  {
+    "urun_adi": "Kivi",
+    "fiyat_araligi": "121.72 ₺",
+    "miktar_birim": "100 KG"
+  },
+  {
+    "urun_adi": "Kuru Soğan",
+    "fiyat_araligi": "45.00 ₺",
+    "miktar_birim": "357 KG"
+  },
+  {
+    "urun_adi": "Limon 1.Sınıf",
+    "fiyat_araligi": "61.95 ₺",
+    "miktar_birim": "309 KG"
+  },
+  {
+    "urun_adi": "Limon 1.Sınıf",
+    "fiyat_araligi": "60.24 ₺",
+    "miktar_birim": "1,256 KG"
+  },
+  {
+    "urun_adi": "Mantar",
+    "fiyat_araligi": "130.00 ₺",
+    "miktar_birim": "2,232 KG"
+  },
+  {
+    "urun_adi": "Mantar",
+    "fiyat_araligi": "137.31 ₺",
+    "miktar_birim": "1,170 KG"
+  },
+  {
+    "urun_adi": "Muz",
+    "fiyat_araligi": "95.00 ₺",
+    "miktar_birim": "400 KG"
+  },
+  {
+    "urun_adi": "Muz",
+    "fiyat_araligi": "95.00 ₺",
+    "miktar_birim": "640 KG"
+  },
+  {
+    "urun_adi": "Patlıcan",
+    "fiyat_araligi": "42.59 ₺ - 47.75 ₺",
+    "miktar_birim": "9,995 KG"
+  },
+  {
+    "urun_adi": "Salatalık",
+    "fiyat_araligi": "27.60 ₺",
+    "miktar_birim": "20 KG"
+  },
+  {
+    "urun_adi": "Sivri Biber",
+    "fiyat_araligi": "36.74 ₺ - 48.34 ₺",
+    "miktar_birim": "148,673 KG"
+  },
+  {
+    "urun_adi": "Sığır Eti",
+    "fiyat_araligi": "404.74 ₺",
+    "miktar_birim": "580 KG"
+  },
+  {
+    "urun_adi": "Süt",
+    "fiyat_araligi": "24.00 ₺",
+    "miktar_birim": "48,360 KG"
+  },
+  {
+    "urun_adi": "Taze Fasülye",
+    "fiyat_araligi": "76.00 ₺ - 82.28 ₺",
+    "miktar_birim": "5,400 KG"
+  },
+  {
+    "urun_adi": "Taze Fasülye",
+    "fiyat_araligi": "73.17 ₺",
+    "miktar_birim": "400 KG"
+  },
+  {
+    "urun_adi": "Taze Kabak",
+    "fiyat_araligi": "39.78 ₺",
+    "miktar_birim": "3,685 KG"
+  },
+  {
+    "urun_adi": "Taze Kabak",
+    "fiyat_araligi": "27.80 ₺",
+    "miktar_birim": "243 KG"
+  },
+  {
+    "urun_adi": "Taze Mısır",
+    "fiyat_araligi": "73.90 ₺",
+    "miktar_birim": "3,570 KG"
+  },
+  {
+    "urun_adi": "Yaş Üzüm",
+    "fiyat_araligi": "58.80 ₺ - 95.29 ₺",
+    "miktar_birim": "61,544 KG"
+  },
+  {
+    "urun_adi": "Yaş Üzüm",
+    "fiyat_araligi": "71.64 ₺ - 98.66 ₺",
+    "miktar_birim": "35,400 KG"
+  },
+  {
+    "urun_adi": "Çarli Biber",
+    "fiyat_araligi": "44.09 ₺",
+    "miktar_birim": "102,313 KG"
+  },
+  {
+    "urun_adi": "Çilek",
+    "fiyat_araligi": "142.02 ₺",
+    "miktar_birim": "734 KG"
+  },
+  {
+    "urun_adi": "Çilek",
+    "fiyat_araligi": "140.00 ₺",
+    "miktar_birim": "301 KG"
+  },
+  {
+    "urun_adi": "İncir",
+    "fiyat_araligi": "84.00 ₺ - 142.10 ₺",
+    "miktar_birim": "7,659 KG"
+  }
+]

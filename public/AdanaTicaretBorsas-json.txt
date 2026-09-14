@@ -1,0 +1,114 @@
+[
+  {
+    "urun_adi": "Armut",
+    "guncel_fiyat": "67.96 ₺/kg"
+  },
+  {
+    "urun_adi": "Arpa",
+    "guncel_fiyat": "13.09 ₺/kg"
+  },
+  {
+    "urun_adi": "Ayçiçeği (Yağlık)",
+    "guncel_fiyat": "37.42 ₺/kg"
+  },
+  {
+    "urun_adi": "Bal (Süzme)",
+    "guncel_fiyat": "251.27 ₺/kg"
+  },
+  {
+    "urun_adi": "Biber",
+    "guncel_fiyat": "46.99 ₺/kg"
+  },
+  {
+    "urun_adi": "Buğday",
+    "guncel_fiyat": "15.34 ₺/kg"
+  },
+  {
+    "urun_adi": "Buğday Kepeği",
+    "guncel_fiyat": "11.40 ₺/kg"
+  },
+  {
+    "urun_adi": "Canlı Hayvan (İnek)",
+    "guncel_fiyat": "386.83 ₺/kg"
+  },
+  {
+    "urun_adi": "Dil Balığı",
+    "guncel_fiyat": "350.00 ₺/kg"
+  },
+  {
+    "urun_adi": "Elma",
+    "guncel_fiyat": "57.68 ₺/kg"
+  },
+  {
+    "urun_adi": "Kabak",
+    "guncel_fiyat": "36.96 ₺/kg"
+  },
+  {
+    "urun_adi": "Kalamar",
+    "guncel_fiyat": "650.00 ₺/kg"
+  },
+  {
+    "urun_adi": "Kavun",
+    "guncel_fiyat": "23.09 ₺/kg"
+  },
+  {
+    "urun_adi": "Kuru Fasulye",
+    "guncel_fiyat": "61.66 ₺/kg"
+  },
+  {
+    "urun_adi": "Limon",
+    "guncel_fiyat": "39.42 ₺/kg"
+  },
+  {
+    "urun_adi": "Lüfer",
+    "guncel_fiyat": "470.00 ₺/kg"
+  },
+  {
+    "urun_adi": "Maydanoz",
+    "guncel_fiyat": "9.71 ₺/kg"
+  },
+  {
+    "urun_adi": "Mercimek Kepeği",
+    "guncel_fiyat": "10.30 ₺/kg"
+  },
+  {
+    "urun_adi": "Mısır",
+    "guncel_fiyat": "13.62 ₺/kg"
+  },
+  {
+    "urun_adi": "Nar",
+    "guncel_fiyat": "35.00 ₺/kg"
+  },
+  {
+    "urun_adi": "Salatalık",
+    "guncel_fiyat": "44.23 ₺/kg"
+  },
+  {
+    "urun_adi": "Sarımsak",
+    "guncel_fiyat": "108.33 ₺/kg"
+  },
+  {
+    "urun_adi": "Sübye",
+    "guncel_fiyat": "250.00 ₺/kg"
+  },
+  {
+    "urun_adi": "Şeftali",
+    "guncel_fiyat": "64.97 ₺/kg"
+  },
+  {
+    "urun_adi": "Tritikale",
+    "guncel_fiyat": "14.20 ₺/kg"
+  },
+  {
+    "urun_adi": "Yulaf",
+    "guncel_fiyat": "16.35 ₺/kg"
+  },
+  {
+    "urun_adi": "Çavdar",
+    "guncel_fiyat": "13.40 ₺/kg"
+  },
+  {
+    "urun_adi": "Üzüm",
+    "guncel_fiyat": "45.81 ₺/kg"
+  }
+]

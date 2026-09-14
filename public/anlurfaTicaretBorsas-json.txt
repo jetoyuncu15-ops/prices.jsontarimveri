@@ -1,0 +1,142 @@
+[
+  {
+    "urun_grubu": "BAKLİYAT",
+    "urun_sinifi": "MERCİMEK",
+    "urun": "KIRMIZI KABUKLU MERCİMEK",
+    "min_fiyat": "37,50",
+    "maks_fiyat": "50,00",
+    "ortalama_fiyat": "43,61",
+    "miktar": "670.260,00",
+    "birim": "KĞ"
+  },
+  {
+    "urun_grubu": "HAYVANSAL ÜRÜNLER",
+    "urun_sinifi": "HAYVANSAL ÜRÜNLER",
+    "urun": "BAL",
+    "min_fiyat": "5.250,00",
+    "maks_fiyat": "6.031,31",
+    "ortalama_fiyat": "5.640,66",
+    "miktar": "2.085,00",
+    "birim": "ADET"
+  },
+  {
+    "urun_grubu": "HAYVANSAL ÜRÜNLER",
+    "urun_sinifi": "HAYVANSAL ÜRÜNLER",
+    "islem_adedi": 2,
+    "min_fiyat": "216,98",
+    "maks_fiyat": "216,98",
+    "ortalama_fiyat": "216,98",
+    "miktar": "50.747,50",
+    "birim": "KĞ"
+  },
+  {
+    "urun_grubu": "HUBUBAT",
+    "urun_sinifi": "BUĞDAY",
+    "urun": "BUĞDAY",
+    "min_fiyat": "15,30",
+    "maks_fiyat": "18,82",
+    "ortalama_fiyat": "17,56",
+    "miktar": "38.546.460,00",
+    "birim": "KĞ"
+  },
+  {
+    "urun_grubu": "HUBUBAT",
+    "urun_sinifi": "BUĞDAY",
+    "urun": "MAKARNALIK BUĞDAY",
+    "min_fiyat": "17,64",
+    "maks_fiyat": "17,64",
+    "ortalama_fiyat": "17,64",
+    "miktar": "1.429.140,00",
+    "birim": "KĞ"
+  },
+  {
+    "urun_grubu": "HUBUBAT",
+    "urun_sinifi": "MISIR",
+    "urun": "MISIR",
+    "min_fiyat": "13,74",
+    "maks_fiyat": "13,87",
+    "ortalama_fiyat": "13,81",
+    "miktar": "1.767.400,00",
+    "birim": "KĞ"
+  },
+  {
+    "urun_grubu": "TEKSTİL MADDELERİ",
+    "urun_sinifi": "PRESELİ PAMUKLAR",
+    "urun": "PRESELİ PAMUK ST.1 BEYAZ",
+    "min_fiyat": "94,25",
+    "maks_fiyat": "94,25",
+    "ortalama_fiyat": "94,25",
+    "miktar": "664.100,00",
+    "birim": "KĞ"
+  },
+  {
+    "urun_grubu": "BAKLİYAT",
+    "urun_sinifi": "MERCİMEK",
+    "urun": "KIRMIZI KABUKLU MERCİMEK",
+    "min_fiyat": "34,16",
+    "maks_fiyat": "52,05",
+    "ortalama_fiyat": "44,89",
+    "miktar": "106.489,00",
+    "birim": "KĞ"
+  },
+  {
+    "urun_grubu": "BAKLİYAT",
+    "urun_sinifi": "NOHUT",
+    "urun": "NOHUT",
+    "min_fiyat": "45,47",
+    "maks_fiyat": "45,47",
+    "ortalama_fiyat": "45,47",
+    "miktar": "27.090,00",
+    "birim": "KĞ"
+  },
+  {
+    "urun_grubu": "CANLI HAYVANLAR",
+    "urun_sinifi": "CANLI HAYVAN",
+    "urun": "BÜYÜK BAŞ CANLI HAYVAN",
+    "min_fiyat": "76.227,73",
+    "maks_fiyat": "76.227,73",
+    "ortalama_fiyat": "76.227,73",
+    "miktar": "50,00",
+    "birim": "ADET"
+  },
+  {
+    "urun_grubu": "CANLI HAYVANLAR",
+    "urun_sinifi": "CANLI HAYVAN",
+    "urun": "CANLI HAYVAN",
+    "min_fiyat": "400,00",
+    "maks_fiyat": "400,00",
+    "ortalama_fiyat": "400,00",
+    "miktar": "1.250,00",
+    "birim": "ADET"
+  },
+  {
+    "urun_grubu": "HAYVANSAL ÜRÜNLER",
+    "urun_sinifi": "HAYVANSAL ÜRÜNLER",
+    "urun": "BAL",
+    "min_fiyat": "319,00",
+    "maks_fiyat": "216,00",
+    "ortalama_fiyat": "208,33",
+    "miktar": "82.171,50",
+    "birim": "KĞ-ADET"
+  },
+  {
+    "urun_grubu": "KURU MEYVALAR",
+    "urun_sinifi": "FISTIK",
+    "urun": "KAVLAK FISTIK",
+    "min_fiyat": "780,00",
+    "maks_fiyat": "780,00",
+    "ortalama_fiyat": "780,00",
+    "miktar": "2.500,00",
+    "birim": "KĞ"
+  },
+  {
+    "urun_grubu": "YAĞLAR",
+    "urun_sinifi": "HAYVANSAL YAĞLAR",
+    "urun": "TERE YAĞI",
+    "min_fiyat": "675,00",
+    "maks_fiyat": "680,00",
+    "ortalama_fiyat": "677,50",
+    "miktar": "20.260,00",
+    "birim": "KĞ"
+  }
+]

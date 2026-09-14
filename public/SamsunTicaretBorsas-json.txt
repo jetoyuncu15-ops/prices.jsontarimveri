@@ -1,0 +1,142 @@
+[
+  {
+    "urun_adi_cinsi": "Arpa Yemlik",
+    "en_dusuk_fiyat": "10.00 ₺",
+    "en_yuksek_fiyat": "13.77 ₺",
+    "ortalama_fiyat": "12.52 ₺",
+    "toplam_islem_miktari": "752.120 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Mısır İrmiği",
+    "en_dusuk_fiyat": "19.00 ₺",
+    "en_yuksek_fiyat": "22.74 ₺",
+    "ortalama_fiyat": "21.86 ₺",
+    "toplam_islem_miktari": "674.200 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Mısır Yemlik",
+    "en_dusuk_fiyat": "14.45 ₺",
+    "en_yuksek_fiyat": "14.45 ₺",
+    "ortalama_fiyat": "14.45 ₺",
+    "toplam_islem_miktari": "55.380 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Mısır Özü",
+    "en_dusuk_fiyat": "15.20 ₺",
+    "en_yuksek_fiyat": "16.25 ₺",
+    "ortalama_fiyat": "16.16 ₺",
+    "toplam_islem_miktari": "288.370 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Mısır Unu",
+    "en_dusuk_fiyat": "15.00 ₺",
+    "en_yuksek_fiyat": "16.55 ₺",
+    "ortalama_fiyat": "16.04 ₺",
+    "toplam_islem_miktari": "428.010 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Mısır Kepeği",
+    "en_dusuk_fiyat": "11.40 ₺",
+    "en_yuksek_fiyat": "13.80 ₺",
+    "ortalama_fiyat": "13.13 ₺",
+    "toplam_islem_miktari": "1.458.170 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Buğday Ekmeklik",
+    "en_dusuk_fiyat": "12.00 ₺",
+    "en_yuksek_fiyat": "18.30 ₺",
+    "ortalama_fiyat": "15.39 ₺",
+    "toplam_islem_miktari": "3.583.705 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Düşük Vasıflı Ekmeklik Buğday",
+    "en_dusuk_fiyat": "14.75 ₺",
+    "en_yuksek_fiyat": "14.75 ₺",
+    "ortalama_fiyat": "14.75 ₺",
+    "toplam_islem_miktari": "10.519.360 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Buğday Kırık",
+    "en_dusuk_fiyat": "12.75 ₺",
+    "en_yuksek_fiyat": "17.00 ₺",
+    "ortalama_fiyat": "12.81 ₺",
+    "toplam_islem_miktari": "75.280 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Buğday İthal",
+    "en_dusuk_fiyat": "16.50 ₺",
+    "en_yuksek_fiyat": "16.50 ₺",
+    "ortalama_fiyat": "16.50 ₺",
+    "toplam_islem_miktari": "25.380 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Buğday Kepeği (Dökme)",
+    "en_dusuk_fiyat": "9.98 ₺",
+    "en_yuksek_fiyat": "11.85 ₺",
+    "ortalama_fiyat": "11.59 ₺",
+    "toplam_islem_miktari": "702.579 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Buğday Unu Ekmeklik",
+    "en_dusuk_fiyat": "19.71 ₺",
+    "en_yuksek_fiyat": "22.50 ₺",
+    "ortalama_fiyat": "19.94 ₺",
+    "toplam_islem_miktari": "356.165 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Buğday Unu Tip 6 Dökme",
+    "en_dusuk_fiyat": "15.00 ₺",
+    "en_yuksek_fiyat": "15.00 ₺",
+    "ortalama_fiyat": "15.00 ₺",
+    "toplam_islem_miktari": "70.820 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Buğday Unu Ekmeklik (50 KG)",
+    "en_dusuk_fiyat": "1.040,00 ₺",
+    "en_yuksek_fiyat": "1.100,00 ₺",
+    "ortalama_fiyat": "1.065.71 ₺",
+    "toplam_islem_miktari": "350 Çuval"
+  },
+  {
+    "urun_adi_cinsi": "Kanola",
+    "en_dusuk_fiyat": "20.00 ₺",
+    "en_yuksek_fiyat": "30.50 ₺",
+    "ortalama_fiyat": "28.49 ₺",
+    "toplam_islem_miktari": "1.109.204 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Beyaz Peynir",
+    "en_dusuk_fiyat": "200.00 ₺",
+    "en_yuksek_fiyat": "200.00 ₺",
+    "ortalama_fiyat": "200.00 ₺",
+    "toplam_islem_miktari": "7.443 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Kaşar Peyniri",
+    "en_dusuk_fiyat": "250.00 ₺",
+    "en_yuksek_fiyat": "250.00 ₺",
+    "ortalama_fiyat": "250.00 ₺",
+    "toplam_islem_miktari": "2.306 Kg"
+  },
+  {
+    "urun_adi_cinsi": "İnek SÜtü",
+    "en_dusuk_fiyat": "21.00 ₺",
+    "en_yuksek_fiyat": "25.00 ₺",
+    "ortalama_fiyat": "22.95 ₺",
+    "toplam_islem_miktari": "141.525 Litre"
+  },
+  {
+    "urun_adi_cinsi": "Zeytin",
+    "en_dusuk_fiyat": "160.00 ₺",
+    "en_yuksek_fiyat": "160.00 ₺",
+    "ortalama_fiyat": "160.00 ₺",
+    "toplam_islem_miktari": "3.075 Kg"
+  },
+  {
+    "urun_adi_cinsi": "Çörek Otu",
+    "en_dusuk_fiyat": "55.00 ₺",
+    "en_yuksek_fiyat": "55.00 ₺",
+    "ortalama_fiyat": "55.00 ₺",
+    "toplam_islem_miktari": "3.115 Kg"
+  }
+]
