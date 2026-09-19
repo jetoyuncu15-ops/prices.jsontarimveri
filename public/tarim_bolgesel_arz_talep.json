@@ -1,0 +1,3074 @@
+[
+    {
+        "il": "Adana",
+        "urunler": [
+            {
+                "urun": "Karpuz",
+                "toplam_arz_ton": 91987,
+                "toplam_talep_ton": 111010,
+                "denge_orani_yuzde": -17.14,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Pamuk",
+                "toplam_arz_ton": 82779,
+                "toplam_talep_ton": 77141,
+                "denge_orani_yuzde": 7.31,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Narenciye",
+                "toplam_arz_ton": 8485,
+                "toplam_talep_ton": 9844,
+                "denge_orani_yuzde": -13.81,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Mısır",
+                "toplam_arz_ton": 71367,
+                "toplam_talep_ton": 86266,
+                "denge_orani_yuzde": -17.27,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Yer Fıstığı",
+                "toplam_arz_ton": 194405,
+                "toplam_talep_ton": 167292,
+                "denge_orani_yuzde": 16.21,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 74177,
+                "toplam_talep_ton": 78870,
+                "denge_orani_yuzde": -5.95,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 139236,
+                "toplam_talep_ton": 105376,
+                "denge_orani_yuzde": 32.13,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Bal",
+                "toplam_arz_ton": 65045,
+                "toplam_talep_ton": 49476,
+                "denge_orani_yuzde": 31.47,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Soğan",
+                "toplam_arz_ton": 51430,
+                "toplam_talep_ton": 39764,
+                "denge_orani_yuzde": 29.34,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Adıyaman",
+        "urunler": [
+            {
+                "urun": "Tütün",
+                "toplam_arz_ton": 14230,
+                "toplam_talep_ton": 12272,
+                "denge_orani_yuzde": 15.96,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Antep Fıstığı",
+                "toplam_arz_ton": 20973,
+                "toplam_talep_ton": 25349,
+                "denge_orani_yuzde": -17.26,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 67542,
+                "toplam_talep_ton": 62032,
+                "denge_orani_yuzde": 8.88,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 170832,
+                "toplam_talep_ton": 179765,
+                "denge_orani_yuzde": -4.97,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Mercimek",
+                "toplam_arz_ton": 86868,
+                "toplam_talep_ton": 104602,
+                "denge_orani_yuzde": -16.95,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Afyonkarahisar",
+        "urunler": [
+            {
+                "urun": "Haşhaş",
+                "toplam_arz_ton": 81065,
+                "toplam_talep_ton": 87137,
+                "denge_orani_yuzde": -6.97,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Patates",
+                "toplam_arz_ton": 151840,
+                "toplam_talep_ton": 178576,
+                "denge_orani_yuzde": -14.97,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 168704,
+                "toplam_talep_ton": 186649,
+                "denge_orani_yuzde": -9.61,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 163849,
+                "toplam_talep_ton": 186980,
+                "denge_orani_yuzde": -12.37,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 136175,
+                "toplam_talep_ton": 128420,
+                "denge_orani_yuzde": 6.04,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 112276,
+                "toplam_talep_ton": 104689,
+                "denge_orani_yuzde": 7.25,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Ağrı",
+        "urunler": [
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 133828,
+                "toplam_talep_ton": 124840,
+                "denge_orani_yuzde": 7.2,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 55238,
+                "toplam_talep_ton": 54844,
+                "denge_orani_yuzde": 0.72,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 192319,
+                "toplam_talep_ton": 211913,
+                "denge_orani_yuzde": -9.25,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 109641,
+                "toplam_talep_ton": 92404,
+                "denge_orani_yuzde": 18.65,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Aksaray",
+        "urunler": [
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 137717,
+                "toplam_talep_ton": 166686,
+                "denge_orani_yuzde": -17.38,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 127021,
+                "toplam_talep_ton": 139893,
+                "denge_orani_yuzde": -9.2,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 72372,
+                "toplam_talep_ton": 87379,
+                "denge_orani_yuzde": -17.17,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Tuz",
+                "toplam_arz_ton": 59757,
+                "toplam_talep_ton": 46740,
+                "denge_orani_yuzde": 27.85,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 199178,
+                "toplam_talep_ton": 152752,
+                "denge_orani_yuzde": 30.39,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Amasya",
+        "urunler": [
+            {
+                "urun": "Elma",
+                "toplam_arz_ton": 108450,
+                "toplam_talep_ton": 108319,
+                "denge_orani_yuzde": 0.12,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Soğan",
+                "toplam_arz_ton": 91673,
+                "toplam_talep_ton": 71199,
+                "denge_orani_yuzde": 28.76,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 90636,
+                "toplam_talep_ton": 83904,
+                "denge_orani_yuzde": 8.02,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 188365,
+                "toplam_talep_ton": 172603,
+                "denge_orani_yuzde": 9.13,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Ankara",
+        "urunler": [
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 2989,
+                "toplam_talep_ton": 3052,
+                "denge_orani_yuzde": -2.06,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 151732,
+                "toplam_talep_ton": 153791,
+                "denge_orani_yuzde": -1.34,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Soğan",
+                "toplam_arz_ton": 124526,
+                "toplam_talep_ton": 94745,
+                "denge_orani_yuzde": 31.43,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Yulaf",
+                "toplam_arz_ton": 188915,
+                "toplam_talep_ton": 204625,
+                "denge_orani_yuzde": -7.68,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Tuz",
+                "toplam_arz_ton": 32393,
+                "toplam_talep_ton": 35827,
+                "denge_orani_yuzde": -9.58,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 39468,
+                "toplam_talep_ton": 42272,
+                "denge_orani_yuzde": -6.63,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 157164,
+                "toplam_talep_ton": 157696,
+                "denge_orani_yuzde": -0.34,
+                "durum": "Dengede"
+            }
+        ]
+    },
+    {
+        "il": "Antalya",
+        "urunler": [
+            {
+                "urun": "Domates",
+                "toplam_arz_ton": 179135,
+                "toplam_talep_ton": 202980,
+                "denge_orani_yuzde": -11.75,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Muz",
+                "toplam_arz_ton": 186651,
+                "toplam_talep_ton": 201750,
+                "denge_orani_yuzde": -7.48,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Narenciye",
+                "toplam_arz_ton": 190800,
+                "toplam_talep_ton": 202417,
+                "denge_orani_yuzde": -5.74,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Biber",
+                "toplam_arz_ton": 24676,
+                "toplam_talep_ton": 22610,
+                "denge_orani_yuzde": 9.14,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Elma",
+                "toplam_arz_ton": 72131,
+                "toplam_talep_ton": 60551,
+                "denge_orani_yuzde": 19.12,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Çilek",
+                "toplam_arz_ton": 176502,
+                "toplam_talep_ton": 178852,
+                "denge_orani_yuzde": -1.31,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 53286,
+                "toplam_talep_ton": 43595,
+                "denge_orani_yuzde": 22.23,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Karpuz",
+                "toplam_arz_ton": 185829,
+                "toplam_talep_ton": 205295,
+                "denge_orani_yuzde": -9.48,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Artvin",
+        "urunler": [
+            {
+                "urun": "Çay",
+                "toplam_arz_ton": 11277,
+                "toplam_talep_ton": 13170,
+                "denge_orani_yuzde": -14.37,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Kivi",
+                "toplam_arz_ton": 22283,
+                "toplam_talep_ton": 23742,
+                "denge_orani_yuzde": -6.15,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Fındık",
+                "toplam_arz_ton": 83889,
+                "toplam_talep_ton": 93536,
+                "denge_orani_yuzde": -10.31,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Bal",
+                "toplam_arz_ton": 85051,
+                "toplam_talep_ton": 89421,
+                "denge_orani_yuzde": -4.89,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Aydın",
+        "urunler": [
+            {
+                "urun": "İncir",
+                "toplam_arz_ton": 185103,
+                "toplam_talep_ton": 210545,
+                "denge_orani_yuzde": -12.08,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Zeytin",
+                "toplam_arz_ton": 56080,
+                "toplam_talep_ton": 58554,
+                "denge_orani_yuzde": -4.23,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Pamuk",
+                "toplam_arz_ton": 58744,
+                "toplam_talep_ton": 72196,
+                "denge_orani_yuzde": -18.63,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Çilek",
+                "toplam_arz_ton": 178546,
+                "toplam_talep_ton": 140884,
+                "denge_orani_yuzde": 26.73,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Şeftali",
+                "toplam_arz_ton": 84947,
+                "toplam_talep_ton": 77040,
+                "denge_orani_yuzde": 10.26,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Balıkesir",
+        "urunler": [
+            {
+                "urun": "Zeytin",
+                "toplam_arz_ton": 181763,
+                "toplam_talep_ton": 174333,
+                "denge_orani_yuzde": 4.26,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Pirinç",
+                "toplam_arz_ton": 171236,
+                "toplam_talep_ton": 166404,
+                "denge_orani_yuzde": 2.9,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 75974,
+                "toplam_talep_ton": 78604,
+                "denge_orani_yuzde": -3.35,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Domates",
+                "toplam_arz_ton": 138541,
+                "toplam_talep_ton": 118486,
+                "denge_orani_yuzde": 16.93,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Ayçiçeği",
+                "toplam_arz_ton": 18876,
+                "toplam_talep_ton": 20493,
+                "denge_orani_yuzde": -7.89,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 97193,
+                "toplam_talep_ton": 88534,
+                "denge_orani_yuzde": 9.78,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Bilecik",
+        "urunler": [
+            {
+                "urun": "Şeftali",
+                "toplam_arz_ton": 196383,
+                "toplam_talep_ton": 240509,
+                "denge_orani_yuzde": -18.35,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Üzüm",
+                "toplam_arz_ton": 188704,
+                "toplam_talep_ton": 222126,
+                "denge_orani_yuzde": -15.05,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 190700,
+                "toplam_talep_ton": 177666,
+                "denge_orani_yuzde": 7.34,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 164891,
+                "toplam_talep_ton": 196906,
+                "denge_orani_yuzde": -16.26,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Bingöl",
+        "urunler": [
+            {
+                "urun": "Bal",
+                "toplam_arz_ton": 56208,
+                "toplam_talep_ton": 67981,
+                "denge_orani_yuzde": -17.32,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 141938,
+                "toplam_talep_ton": 164242,
+                "denge_orani_yuzde": -13.58,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 107062,
+                "toplam_talep_ton": 106641,
+                "denge_orani_yuzde": 0.39,
+                "durum": "Dengede"
+            }
+        ]
+    },
+    {
+        "il": "Bitlis",
+        "urunler": [
+            {
+                "urun": "Tütün",
+                "toplam_arz_ton": 48549,
+                "toplam_talep_ton": 53882,
+                "denge_orani_yuzde": -9.9,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Patates",
+                "toplam_arz_ton": 36172,
+                "toplam_talep_ton": 29140,
+                "denge_orani_yuzde": 24.13,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 118921,
+                "toplam_talep_ton": 98408,
+                "denge_orani_yuzde": 20.84,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Bolu",
+        "urunler": [
+            {
+                "urun": "Patates",
+                "toplam_arz_ton": 147671,
+                "toplam_talep_ton": 149657,
+                "denge_orani_yuzde": -1.33,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 170616,
+                "toplam_talep_ton": 187753,
+                "denge_orani_yuzde": -9.13,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 8347,
+                "toplam_talep_ton": 8180,
+                "denge_orani_yuzde": 2.04,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Mısır",
+                "toplam_arz_ton": 53769,
+                "toplam_talep_ton": 48529,
+                "denge_orani_yuzde": 10.8,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Burdur",
+        "urunler": [
+            {
+                "urun": "Gül",
+                "toplam_arz_ton": 70700,
+                "toplam_talep_ton": 70448,
+                "denge_orani_yuzde": 0.36,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 18696,
+                "toplam_talep_ton": 15284,
+                "denge_orani_yuzde": 22.32,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 145355,
+                "toplam_talep_ton": 152458,
+                "denge_orani_yuzde": -4.66,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Haşhaş",
+                "toplam_arz_ton": 99818,
+                "toplam_talep_ton": 80103,
+                "denge_orani_yuzde": 24.61,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 124473,
+                "toplam_talep_ton": 151835,
+                "denge_orani_yuzde": -18.02,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Bursa",
+        "urunler": [
+            {
+                "urun": "Şeftali",
+                "toplam_arz_ton": 167582,
+                "toplam_talep_ton": 132688,
+                "denge_orani_yuzde": 26.3,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Zeytin",
+                "toplam_arz_ton": 47055,
+                "toplam_talep_ton": 56069,
+                "denge_orani_yuzde": -16.08,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Domates",
+                "toplam_arz_ton": 191565,
+                "toplam_talep_ton": 172941,
+                "denge_orani_yuzde": 10.77,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Çilek",
+                "toplam_arz_ton": 165742,
+                "toplam_talep_ton": 190109,
+                "denge_orani_yuzde": -12.82,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Soğan",
+                "toplam_arz_ton": 180571,
+                "toplam_talep_ton": 222658,
+                "denge_orani_yuzde": -18.9,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 190927,
+                "toplam_talep_ton": 186197,
+                "denge_orani_yuzde": 2.54,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Lahana",
+                "toplam_arz_ton": 196216,
+                "toplam_talep_ton": 194329,
+                "denge_orani_yuzde": 0.97,
+                "durum": "Dengede"
+            }
+        ]
+    },
+    {
+        "il": "Çanakkale",
+        "urunler": [
+            {
+                "urun": "Domates",
+                "toplam_arz_ton": 81906,
+                "toplam_talep_ton": 66485,
+                "denge_orani_yuzde": 23.19,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Zeytin",
+                "toplam_arz_ton": 102024,
+                "toplam_talep_ton": 114484,
+                "denge_orani_yuzde": -10.88,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Şeftali",
+                "toplam_arz_ton": 6510,
+                "toplam_talep_ton": 7088,
+                "denge_orani_yuzde": -8.15,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 110505,
+                "toplam_talep_ton": 117704,
+                "denge_orani_yuzde": -6.12,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 131611,
+                "toplam_talep_ton": 125090,
+                "denge_orani_yuzde": 5.21,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Çankırı",
+        "urunler": [
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 109377,
+                "toplam_talep_ton": 104362,
+                "denge_orani_yuzde": 4.81,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 56256,
+                "toplam_talep_ton": 54669,
+                "denge_orani_yuzde": 2.9,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Tuz",
+                "toplam_arz_ton": 103024,
+                "toplam_talep_ton": 115019,
+                "denge_orani_yuzde": -10.43,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 80365,
+                "toplam_talep_ton": 62553,
+                "denge_orani_yuzde": 28.48,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Çorum",
+        "urunler": [
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 54751,
+                "toplam_talep_ton": 59070,
+                "denge_orani_yuzde": -7.31,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Pirinç",
+                "toplam_arz_ton": 25408,
+                "toplam_talep_ton": 28846,
+                "denge_orani_yuzde": -11.92,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Mercimek",
+                "toplam_arz_ton": 95366,
+                "toplam_talep_ton": 81231,
+                "denge_orani_yuzde": 17.4,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 7758,
+                "toplam_talep_ton": 7516,
+                "denge_orani_yuzde": 3.22,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 70597,
+                "toplam_talep_ton": 77333,
+                "denge_orani_yuzde": -8.71,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Denizli",
+        "urunler": [
+            {
+                "urun": "Üzüm",
+                "toplam_arz_ton": 101379,
+                "toplam_talep_ton": 82137,
+                "denge_orani_yuzde": 23.43,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Tütün",
+                "toplam_arz_ton": 165445,
+                "toplam_talep_ton": 130137,
+                "denge_orani_yuzde": 27.13,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Haşhaş",
+                "toplam_arz_ton": 35346,
+                "toplam_talep_ton": 35211,
+                "denge_orani_yuzde": 0.38,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Elma",
+                "toplam_arz_ton": 78791,
+                "toplam_talep_ton": 81868,
+                "denge_orani_yuzde": -3.76,
+                "durum": "Dengede"
+            }
+        ]
+    },
+    {
+        "il": "Diyarbakır",
+        "urunler": [
+            {
+                "urun": "Karpuz",
+                "toplam_arz_ton": 150687,
+                "toplam_talep_ton": 155544,
+                "denge_orani_yuzde": -3.12,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Pamuk",
+                "toplam_arz_ton": 141897,
+                "toplam_talep_ton": 155015,
+                "denge_orani_yuzde": -8.46,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Mercimek",
+                "toplam_arz_ton": 136283,
+                "toplam_talep_ton": 157696,
+                "denge_orani_yuzde": -13.58,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 113141,
+                "toplam_talep_ton": 139358,
+                "denge_orani_yuzde": -18.81,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 181994,
+                "toplam_talep_ton": 221670,
+                "denge_orani_yuzde": -17.9,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 55999,
+                "toplam_talep_ton": 56985,
+                "denge_orani_yuzde": -1.73,
+                "durum": "Dengede"
+            }
+        ]
+    },
+    {
+        "il": "Edirne",
+        "urunler": [
+            {
+                "urun": "Pirinç",
+                "toplam_arz_ton": 99220,
+                "toplam_talep_ton": 100536,
+                "denge_orani_yuzde": -1.31,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Ayçiçeği",
+                "toplam_arz_ton": 35605,
+                "toplam_talep_ton": 38252,
+                "denge_orani_yuzde": -6.92,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 189693,
+                "toplam_talep_ton": 197186,
+                "denge_orani_yuzde": -3.8,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 84443,
+                "toplam_talep_ton": 94096,
+                "denge_orani_yuzde": -10.26,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Elazığ",
+        "urunler": [
+            {
+                "urun": "Kayısı",
+                "toplam_arz_ton": 163211,
+                "toplam_talep_ton": 154115,
+                "denge_orani_yuzde": 5.9,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Üzüm",
+                "toplam_arz_ton": 59731,
+                "toplam_talep_ton": 47899,
+                "denge_orani_yuzde": 24.7,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 127573,
+                "toplam_talep_ton": 129764,
+                "denge_orani_yuzde": -1.69,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 115056,
+                "toplam_talep_ton": 116733,
+                "denge_orani_yuzde": -1.44,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 103718,
+                "toplam_talep_ton": 91262,
+                "denge_orani_yuzde": 13.65,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Erzincan",
+        "urunler": [
+            {
+                "urun": "Üzüm",
+                "toplam_arz_ton": 131811,
+                "toplam_talep_ton": 156282,
+                "denge_orani_yuzde": -15.66,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 170174,
+                "toplam_talep_ton": 130975,
+                "denge_orani_yuzde": 29.93,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 146028,
+                "toplam_talep_ton": 110940,
+                "denge_orani_yuzde": 31.63,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Erzurum",
+        "urunler": [
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 143383,
+                "toplam_talep_ton": 122269,
+                "denge_orani_yuzde": 17.27,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 20841,
+                "toplam_talep_ton": 23880,
+                "denge_orani_yuzde": -12.73,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Bal",
+                "toplam_arz_ton": 162948,
+                "toplam_talep_ton": 163194,
+                "denge_orani_yuzde": -0.15,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 77425,
+                "toplam_talep_ton": 60289,
+                "denge_orani_yuzde": 28.42,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 67375,
+                "toplam_talep_ton": 62453,
+                "denge_orani_yuzde": 7.88,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Patates",
+                "toplam_arz_ton": 142998,
+                "toplam_talep_ton": 164771,
+                "denge_orani_yuzde": -13.21,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Eskişehir",
+        "urunler": [
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 23233,
+                "toplam_talep_ton": 21970,
+                "denge_orani_yuzde": 5.75,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 18643,
+                "toplam_talep_ton": 20331,
+                "denge_orani_yuzde": -8.3,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 122461,
+                "toplam_talep_ton": 94023,
+                "denge_orani_yuzde": 30.25,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 156043,
+                "toplam_talep_ton": 192744,
+                "denge_orani_yuzde": -19.04,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Mısır",
+                "toplam_arz_ton": 25664,
+                "toplam_talep_ton": 26094,
+                "denge_orani_yuzde": -1.65,
+                "durum": "Dengede"
+            }
+        ]
+    },
+    {
+        "il": "Gaziantep",
+        "urunler": [
+            {
+                "urun": "Antep Fıstığı",
+                "toplam_arz_ton": 112028,
+                "toplam_talep_ton": 116443,
+                "denge_orani_yuzde": -3.79,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Kırmızı Biber",
+                "toplam_arz_ton": 42345,
+                "toplam_talep_ton": 38266,
+                "denge_orani_yuzde": 10.66,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Zeytin",
+                "toplam_arz_ton": 118635,
+                "toplam_talep_ton": 93600,
+                "denge_orani_yuzde": 26.75,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Üzüm",
+                "toplam_arz_ton": 102302,
+                "toplam_talep_ton": 121044,
+                "denge_orani_yuzde": -15.48,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 68254,
+                "toplam_talep_ton": 53859,
+                "denge_orani_yuzde": 26.73,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 103798,
+                "toplam_talep_ton": 119033,
+                "denge_orani_yuzde": -12.8,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Giresun",
+        "urunler": [
+            {
+                "urun": "Fındık",
+                "toplam_arz_ton": 140991,
+                "toplam_talep_ton": 137749,
+                "denge_orani_yuzde": 2.35,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Çay",
+                "toplam_arz_ton": 146442,
+                "toplam_talep_ton": 172129,
+                "denge_orani_yuzde": -14.92,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Kivi",
+                "toplam_arz_ton": 192688,
+                "toplam_talep_ton": 179804,
+                "denge_orani_yuzde": 7.17,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Bal",
+                "toplam_arz_ton": 161207,
+                "toplam_talep_ton": 178994,
+                "denge_orani_yuzde": -9.94,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Mısır",
+                "toplam_arz_ton": 38918,
+                "toplam_talep_ton": 36863,
+                "denge_orani_yuzde": 5.57,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Gümüşhane",
+        "urunler": [
+            {
+                "urun": "Elma",
+                "toplam_arz_ton": 82924,
+                "toplam_talep_ton": 70172,
+                "denge_orani_yuzde": 18.17,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 21530,
+                "toplam_talep_ton": 17750,
+                "denge_orani_yuzde": 21.3,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 78986,
+                "toplam_talep_ton": 96758,
+                "denge_orani_yuzde": -18.37,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Hakkari",
+        "urunler": [
+            {
+                "urun": "Bal",
+                "toplam_arz_ton": 42227,
+                "toplam_talep_ton": 42530,
+                "denge_orani_yuzde": -0.71,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Elma",
+                "toplam_arz_ton": 137053,
+                "toplam_talep_ton": 154877,
+                "denge_orani_yuzde": -11.51,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 198900,
+                "toplam_talep_ton": 199344,
+                "denge_orani_yuzde": -0.22,
+                "durum": "Dengede"
+            }
+        ]
+    },
+    {
+        "il": "Hatay",
+        "urunler": [
+            {
+                "urun": "Narenciye",
+                "toplam_arz_ton": 110782,
+                "toplam_talep_ton": 110901,
+                "denge_orani_yuzde": -0.11,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Zeytin",
+                "toplam_arz_ton": 126179,
+                "toplam_talep_ton": 126729,
+                "denge_orani_yuzde": -0.43,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Pamuk",
+                "toplam_arz_ton": 131858,
+                "toplam_talep_ton": 108798,
+                "denge_orani_yuzde": 21.2,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Soğan",
+                "toplam_arz_ton": 32823,
+                "toplam_talep_ton": 34790,
+                "denge_orani_yuzde": -5.65,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Biber",
+                "toplam_arz_ton": 55506,
+                "toplam_talep_ton": 66791,
+                "denge_orani_yuzde": -16.9,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 3577,
+                "toplam_talep_ton": 3825,
+                "denge_orani_yuzde": -6.48,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Isparta",
+        "urunler": [
+            {
+                "urun": "Gül",
+                "toplam_arz_ton": 178943,
+                "toplam_talep_ton": 217877,
+                "denge_orani_yuzde": -17.87,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Elma",
+                "toplam_arz_ton": 6413,
+                "toplam_talep_ton": 7759,
+                "denge_orani_yuzde": -17.35,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 166100,
+                "toplam_talep_ton": 188257,
+                "denge_orani_yuzde": -11.77,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Domates",
+                "toplam_arz_ton": 42200,
+                "toplam_talep_ton": 34198,
+                "denge_orani_yuzde": 23.4,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Mersin",
+        "urunler": [
+            {
+                "urun": "Narenciye",
+                "toplam_arz_ton": 101353,
+                "toplam_talep_ton": 104635,
+                "denge_orani_yuzde": -3.14,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Muz",
+                "toplam_arz_ton": 186064,
+                "toplam_talep_ton": 154028,
+                "denge_orani_yuzde": 20.8,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Çilek",
+                "toplam_arz_ton": 196948,
+                "toplam_talep_ton": 159419,
+                "denge_orani_yuzde": 23.54,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Domates",
+                "toplam_arz_ton": 83569,
+                "toplam_talep_ton": 100704,
+                "denge_orani_yuzde": -17.02,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Erik",
+                "toplam_arz_ton": 80543,
+                "toplam_talep_ton": 61943,
+                "denge_orani_yuzde": 30.03,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Şeftali",
+                "toplam_arz_ton": 166134,
+                "toplam_talep_ton": 200722,
+                "denge_orani_yuzde": -17.23,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "İstanbul",
+        "urunler": [
+            {
+                "urun": "Ayçiçeği",
+                "toplam_arz_ton": 175548,
+                "toplam_talep_ton": 165556,
+                "denge_orani_yuzde": 6.04,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 189127,
+                "toplam_talep_ton": 187727,
+                "denge_orani_yuzde": 0.75,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 1065,
+                "toplam_talep_ton": 1200,
+                "denge_orani_yuzde": -11.25,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "İzmir",
+        "urunler": [
+            {
+                "urun": "İncir",
+                "toplam_arz_ton": 180272,
+                "toplam_talep_ton": 137618,
+                "denge_orani_yuzde": 30.99,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Zeytin",
+                "toplam_arz_ton": 65126,
+                "toplam_talep_ton": 54623,
+                "denge_orani_yuzde": 19.23,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Pamuk",
+                "toplam_arz_ton": 23890,
+                "toplam_talep_ton": 25431,
+                "denge_orani_yuzde": -6.06,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Tütün",
+                "toplam_arz_ton": 79635,
+                "toplam_talep_ton": 70480,
+                "denge_orani_yuzde": 12.99,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Domates",
+                "toplam_arz_ton": 22754,
+                "toplam_talep_ton": 28074,
+                "denge_orani_yuzde": -18.95,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 117304,
+                "toplam_talep_ton": 100508,
+                "denge_orani_yuzde": 16.71,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Tuz",
+                "toplam_arz_ton": 85354,
+                "toplam_talep_ton": 75085,
+                "denge_orani_yuzde": 13.68,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Kars",
+        "urunler": [
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 37338,
+                "toplam_talep_ton": 44061,
+                "denge_orani_yuzde": -15.26,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 49553,
+                "toplam_talep_ton": 58455,
+                "denge_orani_yuzde": -15.23,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 45933,
+                "toplam_talep_ton": 37885,
+                "denge_orani_yuzde": 21.24,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 62545,
+                "toplam_talep_ton": 68894,
+                "denge_orani_yuzde": -9.22,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Bal",
+                "toplam_arz_ton": 38250,
+                "toplam_talep_ton": 44475,
+                "denge_orani_yuzde": -14.0,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Kastamonu",
+        "urunler": [
+            {
+                "urun": "Kendir",
+                "toplam_arz_ton": 76108,
+                "toplam_talep_ton": 85465,
+                "denge_orani_yuzde": -10.95,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Pirinç",
+                "toplam_arz_ton": 189693,
+                "toplam_talep_ton": 167057,
+                "denge_orani_yuzde": 13.55,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 42479,
+                "toplam_talep_ton": 37173,
+                "denge_orani_yuzde": 14.27,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 172112,
+                "toplam_talep_ton": 133893,
+                "denge_orani_yuzde": 28.54,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Kayseri",
+        "urunler": [
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 16545,
+                "toplam_talep_ton": 20118,
+                "denge_orani_yuzde": -17.76,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 146599,
+                "toplam_talep_ton": 137600,
+                "denge_orani_yuzde": 6.54,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 11746,
+                "toplam_talep_ton": 10693,
+                "denge_orani_yuzde": 9.85,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Kendir",
+                "toplam_arz_ton": 99174,
+                "toplam_talep_ton": 91447,
+                "denge_orani_yuzde": 8.45,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Patates",
+                "toplam_arz_ton": 41252,
+                "toplam_talep_ton": 49141,
+                "denge_orani_yuzde": -16.05,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 39761,
+                "toplam_talep_ton": 45258,
+                "denge_orani_yuzde": -12.15,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Yulaf",
+                "toplam_arz_ton": 179548,
+                "toplam_talep_ton": 190827,
+                "denge_orani_yuzde": -5.91,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Kırklareli",
+        "urunler": [
+            {
+                "urun": "Ayçiçeği",
+                "toplam_arz_ton": 127166,
+                "toplam_talep_ton": 155750,
+                "denge_orani_yuzde": -18.35,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 180009,
+                "toplam_talep_ton": 140834,
+                "denge_orani_yuzde": 27.82,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 179268,
+                "toplam_talep_ton": 175665,
+                "denge_orani_yuzde": 2.05,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Pirinç",
+                "toplam_arz_ton": 102890,
+                "toplam_talep_ton": 117227,
+                "denge_orani_yuzde": -12.23,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Kırşehir",
+        "urunler": [
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 71545,
+                "toplam_talep_ton": 74478,
+                "denge_orani_yuzde": -3.94,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 47830,
+                "toplam_talep_ton": 39777,
+                "denge_orani_yuzde": 20.25,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 65153,
+                "toplam_talep_ton": 71935,
+                "denge_orani_yuzde": -9.43,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Kocaeli",
+        "urunler": [
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 122952,
+                "toplam_talep_ton": 118792,
+                "denge_orani_yuzde": 3.5,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Mısır",
+                "toplam_arz_ton": 129320,
+                "toplam_talep_ton": 109255,
+                "denge_orani_yuzde": 18.37,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Fındık",
+                "toplam_arz_ton": 171056,
+                "toplam_talep_ton": 212797,
+                "denge_orani_yuzde": -19.62,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 191885,
+                "toplam_talep_ton": 158609,
+                "denge_orani_yuzde": 20.98,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Konya",
+        "urunler": [
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 119769,
+                "toplam_talep_ton": 147684,
+                "denge_orani_yuzde": -18.9,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 199334,
+                "toplam_talep_ton": 243436,
+                "denge_orani_yuzde": -18.12,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 100906,
+                "toplam_talep_ton": 86906,
+                "denge_orani_yuzde": 16.11,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Haşhaş",
+                "toplam_arz_ton": 77076,
+                "toplam_talep_ton": 58317,
+                "denge_orani_yuzde": 32.17,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Mısır",
+                "toplam_arz_ton": 41644,
+                "toplam_talep_ton": 39850,
+                "denge_orani_yuzde": 4.5,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 153616,
+                "toplam_talep_ton": 150494,
+                "denge_orani_yuzde": 2.07,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Yulaf",
+                "toplam_arz_ton": 16620,
+                "toplam_talep_ton": 18392,
+                "denge_orani_yuzde": -9.63,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Ayçiçeği",
+                "toplam_arz_ton": 103534,
+                "toplam_talep_ton": 101534,
+                "denge_orani_yuzde": 1.97,
+                "durum": "Dengede"
+            }
+        ]
+    },
+    {
+        "il": "Kütahya",
+        "urunler": [
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 46235,
+                "toplam_talep_ton": 50365,
+                "denge_orani_yuzde": -8.2,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 192319,
+                "toplam_talep_ton": 228661,
+                "denge_orani_yuzde": -15.89,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 14435,
+                "toplam_talep_ton": 15688,
+                "denge_orani_yuzde": -7.99,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Haşhaş",
+                "toplam_arz_ton": 151491,
+                "toplam_talep_ton": 117027,
+                "denge_orani_yuzde": 29.45,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 41922,
+                "toplam_talep_ton": 51700,
+                "denge_orani_yuzde": -18.91,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Malatya",
+        "urunler": [
+            {
+                "urun": "Kayısı",
+                "toplam_arz_ton": 98999,
+                "toplam_talep_ton": 119173,
+                "denge_orani_yuzde": -16.93,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 176231,
+                "toplam_talep_ton": 219824,
+                "denge_orani_yuzde": -19.83,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 63566,
+                "toplam_talep_ton": 67736,
+                "denge_orani_yuzde": -6.16,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 179126,
+                "toplam_talep_ton": 181058,
+                "denge_orani_yuzde": -1.07,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 177575,
+                "toplam_talep_ton": 200202,
+                "denge_orani_yuzde": -11.3,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Manisa",
+        "urunler": [
+            {
+                "urun": "Üzüm",
+                "toplam_arz_ton": 92448,
+                "toplam_talep_ton": 106398,
+                "denge_orani_yuzde": -13.11,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Tütün",
+                "toplam_arz_ton": 41070,
+                "toplam_talep_ton": 38728,
+                "denge_orani_yuzde": 6.05,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Zeytin",
+                "toplam_arz_ton": 156309,
+                "toplam_talep_ton": 145265,
+                "denge_orani_yuzde": 7.6,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Pamuk",
+                "toplam_arz_ton": 55307,
+                "toplam_talep_ton": 43750,
+                "denge_orani_yuzde": 26.42,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Mısır",
+                "toplam_arz_ton": 75240,
+                "toplam_talep_ton": 61502,
+                "denge_orani_yuzde": 22.34,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Kahramanmaraş",
+        "urunler": [
+            {
+                "urun": "Kırmızı Biber",
+                "toplam_arz_ton": 2468,
+                "toplam_talep_ton": 3037,
+                "denge_orani_yuzde": -18.74,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Pamuk",
+                "toplam_arz_ton": 154217,
+                "toplam_talep_ton": 158432,
+                "denge_orani_yuzde": -2.66,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 24822,
+                "toplam_talep_ton": 21576,
+                "denge_orani_yuzde": 15.04,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 126448,
+                "toplam_talep_ton": 145183,
+                "denge_orani_yuzde": -12.9,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Zeytin",
+                "toplam_arz_ton": 68536,
+                "toplam_talep_ton": 76787,
+                "denge_orani_yuzde": -10.75,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Mardin",
+        "urunler": [
+            {
+                "urun": "Mısır",
+                "toplam_arz_ton": 37900,
+                "toplam_talep_ton": 30453,
+                "denge_orani_yuzde": 24.45,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 86390,
+                "toplam_talep_ton": 93262,
+                "denge_orani_yuzde": -7.37,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Mercimek",
+                "toplam_arz_ton": 78027,
+                "toplam_talep_ton": 70469,
+                "denge_orani_yuzde": 10.73,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 175320,
+                "toplam_talep_ton": 186870,
+                "denge_orani_yuzde": -6.18,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Üzüm",
+                "toplam_arz_ton": 131227,
+                "toplam_talep_ton": 128222,
+                "denge_orani_yuzde": 2.34,
+                "durum": "Dengede"
+            }
+        ]
+    },
+    {
+        "il": "Muğla",
+        "urunler": [
+            {
+                "urun": "Zeytin",
+                "toplam_arz_ton": 141173,
+                "toplam_talep_ton": 117129,
+                "denge_orani_yuzde": 20.53,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Bal",
+                "toplam_arz_ton": 6081,
+                "toplam_talep_ton": 4940,
+                "denge_orani_yuzde": 23.1,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Narenciye",
+                "toplam_arz_ton": 39638,
+                "toplam_talep_ton": 46938,
+                "denge_orani_yuzde": -15.55,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Domates",
+                "toplam_arz_ton": 51827,
+                "toplam_talep_ton": 59207,
+                "denge_orani_yuzde": -12.46,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 99955,
+                "toplam_talep_ton": 78952,
+                "denge_orani_yuzde": 26.6,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Muş",
+        "urunler": [
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 47299,
+                "toplam_talep_ton": 40065,
+                "denge_orani_yuzde": 18.06,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 40914,
+                "toplam_talep_ton": 40161,
+                "denge_orani_yuzde": 1.87,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Tütün",
+                "toplam_arz_ton": 87105,
+                "toplam_talep_ton": 96122,
+                "denge_orani_yuzde": -9.38,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 193889,
+                "toplam_talep_ton": 164917,
+                "denge_orani_yuzde": 17.57,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Nevşehir",
+        "urunler": [
+            {
+                "urun": "Patates",
+                "toplam_arz_ton": 185239,
+                "toplam_talep_ton": 193884,
+                "denge_orani_yuzde": -4.46,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Üzüm",
+                "toplam_arz_ton": 65774,
+                "toplam_talep_ton": 51513,
+                "denge_orani_yuzde": 27.68,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 154546,
+                "toplam_talep_ton": 180406,
+                "denge_orani_yuzde": -14.33,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 63261,
+                "toplam_talep_ton": 68773,
+                "denge_orani_yuzde": -8.01,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Niğde",
+        "urunler": [
+            {
+                "urun": "Patates",
+                "toplam_arz_ton": 180627,
+                "toplam_talep_ton": 210411,
+                "denge_orani_yuzde": -14.16,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Elma",
+                "toplam_arz_ton": 153041,
+                "toplam_talep_ton": 162262,
+                "denge_orani_yuzde": -5.68,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Lahana",
+                "toplam_arz_ton": 177492,
+                "toplam_talep_ton": 209638,
+                "denge_orani_yuzde": -15.33,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 119819,
+                "toplam_talep_ton": 130806,
+                "denge_orani_yuzde": -8.4,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 109289,
+                "toplam_talep_ton": 94540,
+                "denge_orani_yuzde": 15.6,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Ordu",
+        "urunler": [
+            {
+                "urun": "Fındık",
+                "toplam_arz_ton": 57013,
+                "toplam_talep_ton": 61608,
+                "denge_orani_yuzde": -7.46,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Kivi",
+                "toplam_arz_ton": 80403,
+                "toplam_talep_ton": 99623,
+                "denge_orani_yuzde": -19.29,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Bal",
+                "toplam_arz_ton": 141506,
+                "toplam_talep_ton": 135205,
+                "denge_orani_yuzde": 4.66,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 109921,
+                "toplam_talep_ton": 82763,
+                "denge_orani_yuzde": 32.81,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Mısır",
+                "toplam_arz_ton": 114900,
+                "toplam_talep_ton": 91434,
+                "denge_orani_yuzde": 25.66,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Rize",
+        "urunler": [
+            {
+                "urun": "Çay",
+                "toplam_arz_ton": 24925,
+                "toplam_talep_ton": 18878,
+                "denge_orani_yuzde": 32.03,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Kivi",
+                "toplam_arz_ton": 16232,
+                "toplam_talep_ton": 16319,
+                "denge_orani_yuzde": -0.53,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Bal",
+                "toplam_arz_ton": 27172,
+                "toplam_talep_ton": 25416,
+                "denge_orani_yuzde": 6.91,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Sakarya",
+        "urunler": [
+            {
+                "urun": "Mısır",
+                "toplam_arz_ton": 125013,
+                "toplam_talep_ton": 104211,
+                "denge_orani_yuzde": 19.96,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Fındık",
+                "toplam_arz_ton": 150864,
+                "toplam_talep_ton": 138215,
+                "denge_orani_yuzde": 9.15,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 34064,
+                "toplam_talep_ton": 34442,
+                "denge_orani_yuzde": -1.1,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 189446,
+                "toplam_talep_ton": 146519,
+                "denge_orani_yuzde": 29.3,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Ayçiçeği",
+                "toplam_arz_ton": 161942,
+                "toplam_talep_ton": 189023,
+                "denge_orani_yuzde": -14.33,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Lahana",
+                "toplam_arz_ton": 5817,
+                "toplam_talep_ton": 6511,
+                "denge_orani_yuzde": -10.66,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Samsun",
+        "urunler": [
+            {
+                "urun": "Pirinç",
+                "toplam_arz_ton": 112004,
+                "toplam_talep_ton": 126702,
+                "denge_orani_yuzde": -11.6,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Fındık",
+                "toplam_arz_ton": 66281,
+                "toplam_talep_ton": 61696,
+                "denge_orani_yuzde": 7.43,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Kendir",
+                "toplam_arz_ton": 102432,
+                "toplam_talep_ton": 95290,
+                "denge_orani_yuzde": 7.5,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Tütün",
+                "toplam_arz_ton": 173087,
+                "toplam_talep_ton": 199391,
+                "denge_orani_yuzde": -13.19,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Lahana",
+                "toplam_arz_ton": 128249,
+                "toplam_talep_ton": 124769,
+                "denge_orani_yuzde": 2.79,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 125539,
+                "toplam_talep_ton": 116431,
+                "denge_orani_yuzde": 7.82,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Mısır",
+                "toplam_arz_ton": 135849,
+                "toplam_talep_ton": 110892,
+                "denge_orani_yuzde": 22.51,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Siirt",
+        "urunler": [
+            {
+                "urun": "Antep Fıstığı",
+                "toplam_arz_ton": 124264,
+                "toplam_talep_ton": 115400,
+                "denge_orani_yuzde": 7.68,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Bal",
+                "toplam_arz_ton": 48557,
+                "toplam_talep_ton": 56687,
+                "denge_orani_yuzde": -14.34,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 90904,
+                "toplam_talep_ton": 68288,
+                "denge_orani_yuzde": 33.12,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Sinop",
+        "urunler": [
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 128821,
+                "toplam_talep_ton": 101223,
+                "denge_orani_yuzde": 27.26,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 165089,
+                "toplam_talep_ton": 162955,
+                "denge_orani_yuzde": 1.31,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Pirinç",
+                "toplam_arz_ton": 144752,
+                "toplam_talep_ton": 177987,
+                "denge_orani_yuzde": -18.67,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Sivas",
+        "urunler": [
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 116119,
+                "toplam_talep_ton": 91133,
+                "denge_orani_yuzde": 27.42,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 149322,
+                "toplam_talep_ton": 183069,
+                "denge_orani_yuzde": -18.43,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Yulaf",
+                "toplam_arz_ton": 173544,
+                "toplam_talep_ton": 157471,
+                "denge_orani_yuzde": 10.21,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 64932,
+                "toplam_talep_ton": 54029,
+                "denge_orani_yuzde": 20.18,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Patates",
+                "toplam_arz_ton": 93623,
+                "toplam_talep_ton": 115895,
+                "denge_orani_yuzde": -19.22,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 117944,
+                "toplam_talep_ton": 103708,
+                "denge_orani_yuzde": 13.73,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Bal",
+                "toplam_arz_ton": 199807,
+                "toplam_talep_ton": 243014,
+                "denge_orani_yuzde": -17.78,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Tekirdağ",
+        "urunler": [
+            {
+                "urun": "Ayçiçeği",
+                "toplam_arz_ton": 189853,
+                "toplam_talep_ton": 233284,
+                "denge_orani_yuzde": -18.62,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 110871,
+                "toplam_talep_ton": 105975,
+                "denge_orani_yuzde": 4.62,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 9021,
+                "toplam_talep_ton": 9279,
+                "denge_orani_yuzde": -2.78,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Soğan",
+                "toplam_arz_ton": 197648,
+                "toplam_talep_ton": 243153,
+                "denge_orani_yuzde": -18.71,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Tokat",
+        "urunler": [
+            {
+                "urun": "Domates",
+                "toplam_arz_ton": 60725,
+                "toplam_talep_ton": 56266,
+                "denge_orani_yuzde": 7.92,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Üzüm",
+                "toplam_arz_ton": 92561,
+                "toplam_talep_ton": 102890,
+                "denge_orani_yuzde": -10.04,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 72264,
+                "toplam_talep_ton": 54762,
+                "denge_orani_yuzde": 31.96,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 105715,
+                "toplam_talep_ton": 118784,
+                "denge_orani_yuzde": -11.0,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Trabzon",
+        "urunler": [
+            {
+                "urun": "Fındık",
+                "toplam_arz_ton": 36557,
+                "toplam_talep_ton": 31604,
+                "denge_orani_yuzde": 15.67,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Çay",
+                "toplam_arz_ton": 145445,
+                "toplam_talep_ton": 138178,
+                "denge_orani_yuzde": 5.26,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Mısır",
+                "toplam_arz_ton": 18235,
+                "toplam_talep_ton": 21787,
+                "denge_orani_yuzde": -16.3,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 121631,
+                "toplam_talep_ton": 129738,
+                "denge_orani_yuzde": -6.25,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Kivi",
+                "toplam_arz_ton": 23070,
+                "toplam_talep_ton": 24360,
+                "denge_orani_yuzde": -5.3,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Tunceli",
+        "urunler": [
+            {
+                "urun": "Bal",
+                "toplam_arz_ton": 135100,
+                "toplam_talep_ton": 153641,
+                "denge_orani_yuzde": -12.07,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 170428,
+                "toplam_talep_ton": 187700,
+                "denge_orani_yuzde": -9.2,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Domates",
+                "toplam_arz_ton": 73184,
+                "toplam_talep_ton": 58222,
+                "denge_orani_yuzde": 25.7,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Şanlıurfa",
+        "urunler": [
+            {
+                "urun": "Pamuk",
+                "toplam_arz_ton": 6039,
+                "toplam_talep_ton": 5757,
+                "denge_orani_yuzde": 4.9,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Antep Fıstığı",
+                "toplam_arz_ton": 128667,
+                "toplam_talep_ton": 106257,
+                "denge_orani_yuzde": 21.09,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Kırmızı Biber",
+                "toplam_arz_ton": 48588,
+                "toplam_talep_ton": 45162,
+                "denge_orani_yuzde": 7.59,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Mercimek",
+                "toplam_arz_ton": 56397,
+                "toplam_talep_ton": 58730,
+                "denge_orani_yuzde": -3.97,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 154186,
+                "toplam_talep_ton": 181930,
+                "denge_orani_yuzde": -15.25,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Uşak",
+        "urunler": [
+            {
+                "urun": "Haşhaş",
+                "toplam_arz_ton": 112016,
+                "toplam_talep_ton": 132160,
+                "denge_orani_yuzde": -15.24,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Tütün",
+                "toplam_arz_ton": 149584,
+                "toplam_talep_ton": 172715,
+                "denge_orani_yuzde": -13.39,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 11132,
+                "toplam_talep_ton": 13682,
+                "denge_orani_yuzde": -18.64,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 169878,
+                "toplam_talep_ton": 191003,
+                "denge_orani_yuzde": -11.06,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 97308,
+                "toplam_talep_ton": 75142,
+                "denge_orani_yuzde": 29.5,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Van",
+        "urunler": [
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 92624,
+                "toplam_talep_ton": 83020,
+                "denge_orani_yuzde": 11.57,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 143262,
+                "toplam_talep_ton": 112643,
+                "denge_orani_yuzde": 27.18,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 198538,
+                "toplam_talep_ton": 246470,
+                "denge_orani_yuzde": -19.45,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 179869,
+                "toplam_talep_ton": 168300,
+                "denge_orani_yuzde": 6.87,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Yozgat",
+        "urunler": [
+            {
+                "urun": "Mercimek",
+                "toplam_arz_ton": 101225,
+                "toplam_talep_ton": 103968,
+                "denge_orani_yuzde": -2.64,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 46970,
+                "toplam_talep_ton": 48424,
+                "denge_orani_yuzde": -3.0,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 183042,
+                "toplam_talep_ton": 224712,
+                "denge_orani_yuzde": -18.54,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 154344,
+                "toplam_talep_ton": 160604,
+                "denge_orani_yuzde": -3.9,
+                "durum": "Dengede"
+            }
+        ]
+    },
+    {
+        "il": "Zonguldak",
+        "urunler": [
+            {
+                "urun": "Fındık",
+                "toplam_arz_ton": 63204,
+                "toplam_talep_ton": 65550,
+                "denge_orani_yuzde": -3.58,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Mısır",
+                "toplam_arz_ton": 22794,
+                "toplam_talep_ton": 28007,
+                "denge_orani_yuzde": -18.61,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 122992,
+                "toplam_talep_ton": 142090,
+                "denge_orani_yuzde": -13.44,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 139886,
+                "toplam_talep_ton": 158307,
+                "denge_orani_yuzde": -11.64,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Bayburt",
+        "urunler": [
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 46555,
+                "toplam_talep_ton": 41324,
+                "denge_orani_yuzde": 12.66,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 131642,
+                "toplam_talep_ton": 153393,
+                "denge_orani_yuzde": -14.18,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 161180,
+                "toplam_talep_ton": 148138,
+                "denge_orani_yuzde": 8.8,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 185692,
+                "toplam_talep_ton": 220743,
+                "denge_orani_yuzde": -15.88,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Karaman",
+        "urunler": [
+            {
+                "urun": "Elma",
+                "toplam_arz_ton": 24562,
+                "toplam_talep_ton": 27052,
+                "denge_orani_yuzde": -9.2,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 159316,
+                "toplam_talep_ton": 161916,
+                "denge_orani_yuzde": -1.61,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Mısır",
+                "toplam_arz_ton": 197637,
+                "toplam_talep_ton": 189235,
+                "denge_orani_yuzde": 4.44,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 122712,
+                "toplam_talep_ton": 142911,
+                "denge_orani_yuzde": -14.13,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 169522,
+                "toplam_talep_ton": 157185,
+                "denge_orani_yuzde": 7.85,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Kırıkkale",
+        "urunler": [
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 91142,
+                "toplam_talep_ton": 77435,
+                "denge_orani_yuzde": 17.7,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 130313,
+                "toplam_talep_ton": 107599,
+                "denge_orani_yuzde": 21.11,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Ayçiçeği",
+                "toplam_arz_ton": 69207,
+                "toplam_talep_ton": 56186,
+                "denge_orani_yuzde": 23.17,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Şeker Pancarı",
+                "toplam_arz_ton": 187056,
+                "toplam_talep_ton": 218514,
+                "denge_orani_yuzde": -14.4,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Batman",
+        "urunler": [
+            {
+                "urun": "Mercimek",
+                "toplam_arz_ton": 37527,
+                "toplam_talep_ton": 45332,
+                "denge_orani_yuzde": -17.22,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 84806,
+                "toplam_talep_ton": 97634,
+                "denge_orani_yuzde": -13.14,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Tütün",
+                "toplam_arz_ton": 26495,
+                "toplam_talep_ton": 25586,
+                "denge_orani_yuzde": 3.55,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Pamuk",
+                "toplam_arz_ton": 81229,
+                "toplam_talep_ton": 84846,
+                "denge_orani_yuzde": -4.26,
+                "durum": "Dengede"
+            }
+        ]
+    },
+    {
+        "il": "Şırnak",
+        "urunler": [
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 113055,
+                "toplam_talep_ton": 133646,
+                "denge_orani_yuzde": -15.41,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Pamuk",
+                "toplam_arz_ton": 159086,
+                "toplam_talep_ton": 141273,
+                "denge_orani_yuzde": 12.61,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Domates",
+                "toplam_arz_ton": 150761,
+                "toplam_talep_ton": 126370,
+                "denge_orani_yuzde": 19.3,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Bartın",
+        "urunler": [
+            {
+                "urun": "Mısır",
+                "toplam_arz_ton": 167705,
+                "toplam_talep_ton": 184949,
+                "denge_orani_yuzde": -9.32,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Fındık",
+                "toplam_arz_ton": 98084,
+                "toplam_talep_ton": 84276,
+                "denge_orani_yuzde": 16.38,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 126164,
+                "toplam_talep_ton": 99229,
+                "denge_orani_yuzde": 27.14,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 31289,
+                "toplam_talep_ton": 27982,
+                "denge_orani_yuzde": 11.82,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Ardahan",
+        "urunler": [
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 47612,
+                "toplam_talep_ton": 55286,
+                "denge_orani_yuzde": -13.88,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 140849,
+                "toplam_talep_ton": 142414,
+                "denge_orani_yuzde": -1.1,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Bal",
+                "toplam_arz_ton": 159704,
+                "toplam_talep_ton": 184378,
+                "denge_orani_yuzde": -13.38,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Iğdır",
+        "urunler": [
+            {
+                "urun": "Kayısı",
+                "toplam_arz_ton": 59146,
+                "toplam_talep_ton": 62898,
+                "denge_orani_yuzde": -5.97,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Pamuk",
+                "toplam_arz_ton": 38466,
+                "toplam_talep_ton": 34679,
+                "denge_orani_yuzde": 10.92,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Domates",
+                "toplam_arz_ton": 16519,
+                "toplam_talep_ton": 14828,
+                "denge_orani_yuzde": 11.4,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Şeftali",
+                "toplam_arz_ton": 124348,
+                "toplam_talep_ton": 137011,
+                "denge_orani_yuzde": -9.24,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Elma",
+                "toplam_arz_ton": 121427,
+                "toplam_talep_ton": 113198,
+                "denge_orani_yuzde": 7.27,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Yalova",
+        "urunler": [
+            {
+                "urun": "Kivi",
+                "toplam_arz_ton": 102824,
+                "toplam_talep_ton": 128517,
+                "denge_orani_yuzde": -19.99,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Elma",
+                "toplam_arz_ton": 153306,
+                "toplam_talep_ton": 176908,
+                "denge_orani_yuzde": -13.34,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Şeftali",
+                "toplam_arz_ton": 106546,
+                "toplam_talep_ton": 92365,
+                "denge_orani_yuzde": 15.35,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Zeytin",
+                "toplam_arz_ton": 132461,
+                "toplam_talep_ton": 148289,
+                "denge_orani_yuzde": -10.67,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Karabük",
+        "urunler": [
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 107163,
+                "toplam_talep_ton": 98172,
+                "denge_orani_yuzde": 9.16,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Arpa",
+                "toplam_arz_ton": 175998,
+                "toplam_talep_ton": 190497,
+                "denge_orani_yuzde": -7.61,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 66566,
+                "toplam_talep_ton": 59550,
+                "denge_orani_yuzde": 11.78,
+                "durum": "Arz Fazlası"
+            }
+        ]
+    },
+    {
+        "il": "Kilis",
+        "urunler": [
+            {
+                "urun": "Zeytin",
+                "toplam_arz_ton": 3289,
+                "toplam_talep_ton": 2508,
+                "denge_orani_yuzde": 31.14,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Üzüm",
+                "toplam_arz_ton": 129980,
+                "toplam_talep_ton": 116014,
+                "denge_orani_yuzde": 12.04,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 115668,
+                "toplam_talep_ton": 117519,
+                "denge_orani_yuzde": -1.58,
+                "durum": "Dengede"
+            },
+            {
+                "urun": "Biber",
+                "toplam_arz_ton": 11376,
+                "toplam_talep_ton": 13193,
+                "denge_orani_yuzde": -13.77,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Osmaniye",
+        "urunler": [
+            {
+                "urun": "Yer Fıstığı",
+                "toplam_arz_ton": 151751,
+                "toplam_talep_ton": 164817,
+                "denge_orani_yuzde": -7.93,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Pamuk",
+                "toplam_arz_ton": 16458,
+                "toplam_talep_ton": 15377,
+                "denge_orani_yuzde": 7.03,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Zeytin",
+                "toplam_arz_ton": 189883,
+                "toplam_talep_ton": 143405,
+                "denge_orani_yuzde": 32.41,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 80259,
+                "toplam_talep_ton": 86011,
+                "denge_orani_yuzde": -6.69,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Mısır",
+                "toplam_arz_ton": 70544,
+                "toplam_talep_ton": 74165,
+                "denge_orani_yuzde": -4.88,
+                "durum": "Arz Açığı"
+            }
+        ]
+    },
+    {
+        "il": "Düzce",
+        "urunler": [
+            {
+                "urun": "Fındık",
+                "toplam_arz_ton": 179942,
+                "toplam_talep_ton": 222860,
+                "denge_orani_yuzde": -19.26,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Mısır",
+                "toplam_arz_ton": 164990,
+                "toplam_talep_ton": 193982,
+                "denge_orani_yuzde": -14.95,
+                "durum": "Arz Açığı"
+            },
+            {
+                "urun": "Süt",
+                "toplam_arz_ton": 21731,
+                "toplam_talep_ton": 20372,
+                "denge_orani_yuzde": 6.67,
+                "durum": "Arz Fazlası"
+            },
+            {
+                "urun": "Buğday",
+                "toplam_arz_ton": 189069,
+                "toplam_talep_ton": 198715,
+                "denge_orani_yuzde": -4.85,
+                "durum": "Arz Açığı"
+            }
+        ]
+    }
+]
