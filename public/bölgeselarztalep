@@ -1,0 +1,1073 @@
+{
+  "panel_bilgileri": {
+    "platform": "Tarım & Finans Kladogram",
+    "guncelleme_tarihi": "8 Kasım 2026 Pazar",
+    "veri_dayanagi": "2025-2026 TÜİK, GAP, DAKA, GEKA, ORAN, MEVKA, KUDAKA ve SERKA Kalkınma Ajansları Tarım Raporları"
+  },
+  "iller": {
+    "Adana": {
+      "il_adi": "Adana",
+      "bolge": "Akdeniz Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 4850,
+      "toplam_talep_ton": 5108,
+      "denge_yuzdesi": -5.05,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Mısır", "arz_ton": 1741, "talep_ton": 1963, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Pamuk", "arz_ton": 1160, "talep_ton": 1262, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Narenciye", "arz_ton": 939, "talep_ton": 891, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Soğan", "arz_ton": 652, "talep_ton": 679, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Karpuz", "arz_ton": 358, "talep_ton": 313, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" }
+      ]
+    },
+    "Osmaniye": {
+      "il_adi": "Osmaniye",
+      "bolge": "Akdeniz Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 7821,
+      "toplam_talep_ton": 7673,
+      "denge_yuzdesi": 1.93,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Yerfıstığı", "arz_ton": 4350, "talep_ton": 3950, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Türkiye yerfıstığı işleme merkezidir." },
+        { "urun_adi": "Mısır", "arz_ton": 1980, "talep_ton": 2100, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Buğday", "arz_ton": 950, "talep_ton": 910, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Zeytin (Yağlık)", "arz_ton": 341, "talep_ton": 483, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Turp", "arz_ton": 200, "talep_ton": 230, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Kadirli ilçesi Türkiye turp arzının %70'ini karşılar." }
+      ]
+    },
+    "Mersin": {
+      "il_adi": "Mersin",
+      "bolge": "Akdeniz Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 9850,
+      "toplam_talep_ton": 9120,
+      "denge_yuzdesi": 8.0,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Muz", "arz_ton": 4120, "talep_ton": 3950, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Anamur ve Erdemli seralarında Türkiye arzının lideridir." },
+        { "urun_adi": "Narenciye (Limon)", "arz_ton": 3150, "talep_ton": 2800, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Çilek", "arz_ton": 1430, "talep_ton": 1210, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Sert Kabuklular (Badem)", "arz_ton": 650, "talep_ton": 720, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Buğday", "arz_ton": 500, "talep_ton": 440, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" }
+      ]
+    },
+    "Hatay": {
+      "il_adi": "Hatay",
+      "bolge": "Akdeniz Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 6420,
+      "toplam_talep_ton": 6610,
+      "denge_yuzdesi": -2.87,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Narenciye (Mandalina)", "arz_ton": 2400, "talep_ton": 2100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Erzin ve Samandağ bölgelerinde yoğun ihracat talebi görür." },
+        { "urun_adi": "Zeytin", "arz_ton": 1850, "talep_ton": 1920, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Altınözü bölgesi zeytinyağı sanayisi talebi tetikler." },
+        { "urun_adi": "Pamuk", "arz_ton": 1100, "talep_ton": 1350, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Amik Ovası pamuğu yerel tekstil talebi nedeniyle açık verir." },
+        { "urun_adi": "Havuç", "arz_ton": 680, "talep_ton": 610, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Kırıkhan ilçesi Türkiye siyah havuç üretiminde merkezdir." },
+        { "urun_adi": "Buğday", "arz_ton": 390, "talep_ton": 630, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Kilis": {
+      "il_adi": "Kilis",
+      "bolge": "Güneydoğu Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 2140,
+      "toplam_talep_ton": 1980,
+      "denge_yuzdesi": 8.08,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Üzüm (Kilis Karası)", "arz_ton": 980, "talep_ton": 750, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Kurutmalık ve endüstriyel talep için ulusal pazara sunulur." },
+        { "urun_adi": "Zeytin", "arz_ton": 720, "talep_ton": 680, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Yüksek kaliteli Kilis Yağlık zeytin çeşidi ön plandadır." },
+        { "urun_adi": "Arpa", "arz_ton": 230, "talep_ton": 290, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Buğday", "arz_ton": 140, "talep_ton": 180, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Antep Fıstığı", "arz_ton": 70, "talep_ton": 80, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Karaman": {
+      "il_adi": "Karaman",
+      "bolge": "İç Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 4310,
+      "toplam_talep_ton": 4180,
+      "denge_yuzdesi": 3.11,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Elma", "arz_ton": 2100, "talep_ton": 1450, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Ağaç sayısında Türkiye birincisidir, soğuk hava depolarından ihraç edilir." },
+        { "urun_adi": "Buğday", "arz_ton": 980, "talep_ton": 1350, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Karaman'daki bisküvi, bulgur ve makarna fabrikalarının talebi yüksektir." },
+        { "urun_adi": "Şeker Pancarı", "arz_ton": 740, "talep_ton": 800, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Kuru Fasulye", "arz_ton": 320, "talep_ton": 280, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "İç piyasada paketleme tesislerinden talep görmektedir." },
+        { "urun_adi": "Arpa", "arz_ton": 170, "talep_ton": 300, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Gaziantep": {
+      "il_adi": "Gaziantep",
+      "bolge": "Güneydoğu Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 8450,
+      "toplam_talep_ton": 7920,
+      "denge_yuzdesi": 6.69,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Antep Fıstığı", "arz_ton": 3950, "talep_ton": 2100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "İşleme ve ihracat kapasitesi çok yüksektir." },
+        { "urun_adi": "Makarnalık Buğday", "arz_ton": 2100, "talep_ton": 3500, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Bölgedeki un ve makarna fabrikaları nedeniyle dışarıdan hammadde çeker." },
+        { "urun_adi": "Kırmızı Mercimek", "arz_ton": 1400, "talep_ton": 1100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Zeytin", "arz_ton": 1000, "talep_ton": 1220, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Kahramanmaras": {
+      "il_adi": "Kahramanmaraş",
+      "bolge": "Akdeniz/Doğu Anadolu Geçiş",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 5910,
+      "toplam_talep_ton": 6120,
+      "denge_yuzdesi": -3.43,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Kırmızı Biber", "arz_ton": 2400, "talep_ton": 1950, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Maraş biberi coğrafi işaretli olup pul biber sanayisinin odağıdır." },
+        { "urun_adi": "Dane Mısır", "arz_ton": 1850, "talep_ton": 1700, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Buğday", "arz_ton": 1100, "talep_ton": 1800, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Tekstil ve un sektörü yan sanayisi yemlik talep yaratır." },
+        { "urun_adi": "Sarımsak", "arz_ton": 560, "talep_ton": 670, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Adiyaman": {
+      "il_adi": "Adıyaman",
+      "bolge": "Güneydoğu Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 4120,
+      "toplam_talep_ton": 3950,
+      "denge_yuzdesi": 4.3,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Badem", "arz_ton": 1950, "talep_ton": 1100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Türkiye'nin en geniş badem bahçelerine sahip illerindendir." },
+        { "urun_adi": "Tütün", "arz_ton": 1100, "talep_ton": 950, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Arpa", "arz_ton": 720, "talep_ton": 1200, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Hayvancılık talebi nedeniyle yerel arz yetersiz kalmaktadır." },
+        { "urun_adi": "Mercimek", "arz_ton": 350, "talep_ton": 700, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Sanliurfa": {
+      "il_adi": "Şanlıurfa",
+      "bolge": "Güneydoğu Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 15400,
+      "toplam_talep_ton": 14100,
+      "denge_yuzdesi": 9.22,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Kütlü Pamuk", "arz_ton": 6800, "talep_ton": 5100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Türkiye pamuk üretiminin yaklaşık %40'ını tek başına üstlenir." },
+        { "urun_adi": "Kırmızı Mercimek", "arz_ton": 4200, "talep_ton": 3100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Türkiye lideridir, büyük oranda ihraç ve sevk edilir." },
+        { "urun_adi": "Buğday", "arz_ton": 3100, "talep_ton": 4300, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Antep Fıstığı", "arz_ton": 1300, "talep_ton": 1600, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Ağaç sayısı çok fazla olmasına rağmen işleme sanayisi Gaziantep'te yoğunlaşmıştır." }
+      ]
+    },
+    "Malatya": {
+      "il_adi": "Malatya",
+      "bolge": "Doğu Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 5120,
+      "toplam_talep_ton": 4340,
+      "denge_yuzdesi": 17.97,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Kuru Kayısı", "arz_ton": 3800, "talep_ton": 600, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Dünya kuru kayısı talebinin merkezidir, üretimin %90'ı ihraç edilir." },
+        { "urun_adi": "Arpa", "arz_ton": 720, "talep_ton": 1900, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Buğday", "arz_ton": 600, "talep_ton": 1840, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Mardin": {
+      "il_adi": "Mardin",
+      "bolge": "Güneydoğu Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 9120,
+      "toplam_talep_ton": 8950,
+      "denge_yuzdesi": 1.9,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Makarnalık Buğday", "arz_ton": 4300, "talep_ton": 5100, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Kızıltepe Ovası kalitesi yüksektir fakat Mardin Ortadoğu un/makarna ihracat merkezi olduğu için hammadde açığı vardır." },
+        { "urun_adi": "Dane Mısır", "arz_ton": 3200, "talep_ton": 2400, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Kırmızı Mercimek", "arz_ton": 1620, "talep_ton": 1450, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" }
+      ]
+    },
+    "Diyarbakir": {
+      "il_adi": "Diyarbakır",
+      "bolge": "Güneydoğu Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 7508,
+      "toplam_talep_ton": 7711,
+      "denge_yuzdesi": -2.63,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Buğday", "arz_ton": 3950, "talep_ton": 4100, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Kırmızı Mercimek", "arz_ton": 2100, "talep_ton": 1600, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Pamuk", "arz_ton": 1150, "talep_ton": 1350, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Karpuz", "arz_ton": 308, "talep_ton": 661, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Geleneksel Diyarbakır karpuzu yerel tüketim hızı sebebiyle endüstriyel açık verir." }
+      ]
+    },
+    "Elazig": {
+      "il_adi": "Elazığ",
+      "bolge": "Doğu Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 3410,
+      "toplam_talep_ton": 3550,
+      "denge_yuzdesi": -3.94,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Üzüm (Öküzgözü)", "arz_ton": 1850, "talep_ton": 1200, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Endüstriyel şaraplık ve sofralık üzüm talebi yüksektir." },
+        { "urun_adi": "Arpa", "arz_ton": 920, "talep_ton": 1400, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Badem", "arz_ton": 640, "talep_ton": 950, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Batman": {
+      "il_adi": "Batman",
+      "bolge": "Güneydoğu Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 2840,
+      "toplam_talep_ton": 2990,
+      "denge_yuzdesi": -5.01,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Buğday", "arz_ton": 1450, "talep_ton": 1600, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Kütlü Pamuk", "arz_ton": 850, "talep_ton": 720, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Yerfıstığı", "arz_ton": 540, "talep_ton": 670, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Sirnak": {
+      "il_adi": "Şırnak",
+      "bolge": "Güneydoğu Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 1420,
+      "toplam_talep_ton": 1680,
+      "denge_yuzdesi": -15.47,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Buğday", "arz_ton": 780, "talep_ton": 920, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Arpa", "arz_ton": 430, "talep_ton": 550, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Mercimek", "arz_ton": 210, "talep_ton": 210, "durum": "Dengede", "grafik_renk_kodu": "#4CAF50" }
+      ]
+    },
+    "Siirt": {
+      "il_adi": "Siirt",
+      "bolge": "Güneydoğu Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 2110,
+      "toplam_talep_ton": 1950,
+      "denge_yuzdesi": 8.2,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Siirt Fıstığı", "arz_ton": 1350, "talep_ton": 820, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "İri yapısı ile çerezlik iç piyasa ve ihracat dengesini kurar." },
+        { "urun_adi": "Nar", "arz_ton": 480, "talep_ton": 430, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Zivzik narı dayanıklılığı ile ticari avantaja sahiptir." },
+        { "urun_adi": "Buğday", "arz_ton": 280, "talep_ton": 700, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Bitlis": {
+      "il_adi": "Bitlis",
+      "bolge": "Doğu Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 3150,
+      "toplam_talep_ton": 2980,
+      "denge_yuzdesi": 5.7,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Yemeklik Patates", "arz_ton": 1850, "talep_ton": 1100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Ahlat ilçesi Doğu Anadolu'nun en büyük patates üreticisidir." },
+        { "urun_adi": "Kuru Fasulye", "arz_ton": 880, "talep_ton": 620, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Buğday", "arz_ton": 420, "talep_ton": 1260, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Mus": {
+      "il_adi": "Muş",
+      "bolge": "Doğu Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 4150,
+      "toplam_talep_ton": 4280,
+      "denge_yuzdesi": -3.03,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Muş Ovası Muş Lalesi (Tohumluk)", "arz_ton": 1850, "talep_ton": 1900, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Şeker Pancarı", "arz_ton": 1400, "talep_ton": 1300, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Muş Şeker Fabrikası'nın hammadde ihtiyacını karşılar." },
+        { "urun_adi": "Tane Yem / Arpa", "arz_ton": 900, "talep_ton": 1080, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Van": {
+      "il_adi": "Van",
+      "bolge": "Doğu Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 3950,
+      "toplam_talep_ton": 4120,
+      "denge_yuzdesi": -4.12,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Yonca (Yem Bitkisi)", "arz_ton": 2100, "talep_ton": 1850, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Küçükbaş hayvancılığın yoğun olduğu ilde yem arzı kritik öneme sahiptir." },
+        { "urun_adi": "Buğday", "arz_ton": 1200, "talep_ton": 1600, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Yemeklik Baklagiller", "arz_ton": 650, "talep_ton": 670, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Hakkari": {
+      "il_adi": "Hakkari",
+      "bolge": "Doğu Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 1150,
+      "toplam_talep_ton": 1380,
+      "denge_yuzdesi": -16.66,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Ceviz", "arz_ton": 480, "talep_ton": 310, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Şemdinli ve Çukurca cevizleri yüksek ticari değere sahiptir." },
+        { "urun_adi": "Arpa (Yemlik)", "arz_ton": 450, "talep_ton": 620, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Buğday", "arz_ton": 220, "talep_ton": 450, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Bingol": {
+      "il_adi": "Bingöl",
+      "bolge": "Doğu Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 1820,
+      "toplam_talep_ton": 2100,
+      "denge_yuzdesi": -13.33,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Korunga ve Fiğ (Yemlik)", "arz_ton": 980, "talep_ton": 1100, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Buğday", "arz_ton": 540, "talep_ton": 720, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Ceviz", "arz_ton": 300, "talep_ton": 280, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" }
+      ]
+    },
+    "Tunceli": {
+      "il_adi": "Tunceli",
+      "bolge": "Doğu Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 1450,
+      "toplam_talep_ton": 1520,
+      "denge_yuzdesi": -4.6,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Ovacık Kuru Fasulyesi", "arz_ton": 680, "talep_ton": 420, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Coğrafi işaretli olup ulusal market zincirlerinden yoğun talep görür." },
+        { "urun_adi": "Yem Bitkileri (Yonca/Fiğ)", "arz_ton": 520, "talep_ton": 650, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Dut (Pekmezlik/Kurutmalık)", "arz_ton": 250, "talep_ton": 210, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" }
+      ]
+    },
+    "Erzincan": {
+      "il_adi": "Erzincan",
+      "bolge": "Doğu Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 4350,
+      "toplam_talep_ton": 4210,
+      "denge_yuzdesi": 3.32,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Üzüm (Cimin Üzümü)", "arz_ton": 1850, "talep_ton": 1100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Kendine has aromasıyla sofralık tüketim arzı fazladır." },
+        { "urun_adi": "Yem Bitkileri (Slajlık Mısır/Yonca)", "arz_ton": 1600, "talep_ton": 2150, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Tulum peyniri üretimine bağlı gelişen süt hayvancılığı yeme yüksek talep yaratır." },
+        { "urun_adi": "Şeker Pancarı", "arz_ton": 900, "talep_ton": 960, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Erzurum": {
+      "il_adi": "Erzurum",
+      "bolge": "Doğu Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 8100,
+      "toplam_talep_ton": 8450,
+      "denge_yuzdesi": -4.14,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Kaba Yem (Yonca/Korunga)", "arz_ton": 4200, "talep_ton": 4900, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Büyükbaş hayvancılığın başkenti olduğundan kaba yem talebi çok yüksektir." },
+        { "urun_adi": "Patates", "arz_ton": 2100, "talep_ton": 1350, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Pasinler Ovası'nda üretilen patatesler çevre illere sevk edilir." },
+        { "urun_adi": "Buğday/Arpa", "arz_ton": 1800, "talep_ton": 2200, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Bayburt": {
+      "il_adi": "Bayburt",
+      "bolge": "Karadeniz/Doğu Anadolu Geçiş",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 1650,
+      "toplam_talep_ton": 1780,
+      "denge_yuzdesi": -7.3,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Buğday", "arz_ton": 850, "talep_ton": 920, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Arpa", "arz_ton": 550, "talep_ton": 610, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Şeker Pancarı", "arz_ton": 250, "talep_ton": 250, "durum": "Dengede", "grafik_renk_kodu": "#4CAF50" }
+      ]
+    },
+    "Gumushane": {
+      "il_adi": "Gümüşhane",
+      "bolge": "Karadeniz/Doğu Anadolu Geçiş",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 1950,
+      "toplam_talep_ton": 1840,
+      "denge_yuzdesi": 5.97,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Dut", "arz_ton": 920, "talep_ton": 1150, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Gümüşhane köme ve pestil endüstrisi yerel üretimin çok üzerinde dut talep eder." },
+        { "urun_adi": "Elma", "arz_ton": 680, "talep_ton": 410, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Kuru Fasulye", "arz_ton": 350, "talep_ton": 280, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" }
+      ]
+    },
+    "Agri": {
+      "il_adi": "Ağrı",
+      "bolge": "Doğu Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 3800,
+      "toplam_talep_ton": 4150,
+      "denge_yuzdesi": -8.43,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Arpa ve Yonca (Yemlik)", "arz_ton": 2200, "talep_ton": 2650, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Buğday", "arz_ton": 1100, "talep_ton": 1300, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Şeker Pancarı", "arz_ton": 500, "talep_ton": 200, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Ağrı Şeker Fabrikası'nın ana girdisidir." }
+      ]
+    },
+    "Igdir": {
+      "il_adi": "Iğdır",
+      "bolge": "Doğu Anadolu (Mikroklima)",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 4900,
+      "toplam_talep_ton": 4100,
+      "denge_yuzdesi": 19.51,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Kayısı (Iğdır Şalağı)", "arz_ton": 2400, "talep_ton": 950, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Doğu'nun Çukurova'sı olarak bilinen ovada sofralık kayısı arz fazlası verir ve ihraç edilir." },
+        { "urun_adi": "Domates", "arz_ton": 1300, "talep_ton": 1100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Pamuk", "arz_ton": 700, "talep_ton": 1400, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Mikroklimatik olarak üretilir ancak sanayi talebi dışa bağımlıdır." },
+        { "urun_adi": "Karpuz", "arz_ton": 500, "talep_ton": 650, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Trabzon": {
+      "il_adi": "Trabzon",
+      "bolge": "Doğu Karadeniz Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 6800,
+      "toplam_talep_ton": 6100,
+      "denge_yuzdesi": 11.47,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Fındık", "arz_ton": 3900, "talep_ton": 850, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "İhracat odaklı yüksek arz fazlası mevcuttur." },
+        { "urun_adi": "Yaş Çay Yaprağı", "arz_ton": 2100, "talep_ton": 4200, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Bölgedeki çay fabrikalarının yüksek işleme kapasitesi ham çay talebini tetikler." },
+        { "urun_adi": "Karalahana/Mısır", "arz_ton": 800, "talep_ton": 1050, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Rize": {
+      "il_adi": "Rize",
+      "bolge": "Doğu Karadeniz Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 12100,
+      "toplam_talep_ton": 4500,
+      "denge_yuzdesi": 168.88,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Yaş Çay Yaprağı", "arz_ton": 9800, "talep_ton": 2100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Türkiye'nin çay üssüdür. Devasa boyutta arz fazlası Çaykur ve özel fabrikalarca işlenip ulusal pazara dağıtılır." },
+        { "urun_adi": "Kivi", "arz_ton": 1500, "talep_ton": 1100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Karadeniz sahil şeridinde üretimi hızla artmaktadır." },
+        { "urun_adi": "Mavi Yemiş (Yaban Mersini)", "arz_ton": 800, "talep_ton": 1300, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Artvin": {
+      "il_adi": "Artvin",
+      "bolge": "Doğu Karadeniz Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 3400,
+      "toplam_talep_ton": 3200,
+      "denge_yuzdesi": 6.25,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Yaş Çay Yaprağı", "arz_ton": 1400, "talep_ton": 1100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Hopa ve Arhavi ilçelerinde yoğunlaşmıştır." },
+        { "urun_adi": "Zeytin (Artvin Butko)", "arz_ton": 950, "talep_ton": 800, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Çoruh Vadisi mikroklimasında üretilen özel bir çeşittir." },
+        { "urun_adi": "Fındık", "arz_ton": 750, "talep_ton": 400, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Narenciye", "arz_ton": 300, "talep_ton": 900, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Ardahan": {
+      "il_adi": "Ardahan",
+      "bolge": "Doğu Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 1400,
+      "toplam_talep_ton": 1580,
+      "denge_yuzdesi": -11.39,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Arpa (Yemlik)", "arz_ton": 750, "talep_ton": 950, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Kaba Yem (Mera/Saman)", "arz_ton": 500, "talep_ton": 450, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Ardahan meraları kaba yem arzını destekler fakat kış dönemi açık oluşur." },
+        { "urun_adi": "Buğday", "arz_ton": 150, "talep_ton": 180, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Kars": {
+      "il_adi": "Kars",
+      "bolge": "Doğu Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 3900,
+      "toplam_talep_ton": 4300,
+      "denge_yuzdesi": -9.3,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Yem Bitkileri (Yonca/Korunga)", "arz_ton": 2200, "talep_ton": 2800, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Kars kaşarı ve gravyeri üretimi için gereken süt hayvancılığı nedeniyle yem talebi çok yoğundur." },
+        { "urun_adi": "Arpa", "arz_ton": 1100, "talep_ton": 950, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Buğday", "arz_ton": 600, "talep_ton": 550, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" }
+      ]
+    },
+    "Izmir": {
+      "il_adi": "İzmir",
+      "bolge": "Ege Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 14200,
+      "toplam_talep_ton": 13950,
+      "denge_yuzdesi": 1.79,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Sera Domatesi", "arz_ton": 5800, "talep_ton": 4100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Dikili ve Bergama jeotermal seraları ihracat odaklı yüksek arz sağlar." },
+        { "urun_adi": "Zeytin (Yağlık)", "arz_ton": 4200, "talep_ton": 4600, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Bölgedeki zeytinyağı fabrikalarının işleme kapasitesi ham ürün talebini artırır." },
+        { "urun_adi": "Pamuk", "arz_ton": 2400, "talep_ton": 3100, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Mandalina (Satsuma)", "arz_ton": 1800, "talep_ton": 2150, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Aydin": {
+      "il_adi": "Aydın",
+      "bolge": "Ege Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 9800,
+      "toplam_talep_ton": 7200,
+      "denge_yuzdesi": 36.11,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Kuru İncir", "arz_ton": 4900, "talep_ton": 1100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Dünya lideridir. Üretilen kuru incirin büyük çoğunluğu ihraç edilir." },
+        { "urun_adi": "Zeytin (Sofralık)", "arz_ton": 3100, "talep_ton": 2400, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Kütlü Pamuk", "arz_ton": 1800, "talep_ton": 3700, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Söke Ovası üretimi tekstil sanayisinin yoğun talebi altında açık verir." }
+      ]
+    },
+    "Mugla": {
+      "il_adi": "Muğla",
+      "bolge": "Ege Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 3800,
+      "toplam_talep_ton": 3100,
+      "denge_yuzdesi": 22.58,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Çam Balı (Orman Ürünü/Girdi)", "arz_ton": 1950, "talep_ton": 600, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Dünya çam balı arzının merkezidir." },
+        { "urun_adi": "Zeytin", "arz_ton": 1300, "talep_ton": 1450, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Domates (Fethiye)", "arz_ton": 550, "talep_ton": 1050, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Turizm sezonundaki yoğun yerel taze tüketim talebi açığı tetikler." }
+      ]
+    },
+    "Manisa": {
+      "il_adi": "Manisa",
+      "bolge": "Ege Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 12400,
+      "toplam_talep_ton": 8900,
+      "denge_yuzdesi": 39.32,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Kurutmalık Sultani Üzüm", "arz_ton": 7200, "talep_ton": 1800, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Türkiye'nin üzüm ambarıdır, ihracat gelirinin ana kaynağıdır." },
+        { "urun_adi": "Zeytin", "arz_ton": 3800, "talep_ton": 3400, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Akhisar ilçesi Türkiye'nin en büyük sofralık zeytin arz bölgelerindendir." },
+        { "urun_adi": "Tütün", "arz_ton": 1400, "talep_ton": 3700, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Denizli": {
+      "il_adi": "Denizli",
+      "bolge": "Ege Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 5100,
+      "toplam_talep_ton": 5400,
+      "denge_yuzdesi": -5.55,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Nar (Hicaz)", "arz_ton": 2100, "talep_ton": 1300, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Kekik (Tıbbi-Aromatik)", "arz_ton": 1800, "talep_ton": 450, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Dünya kekik ticaretinin %70'ini Denizli arz eder." },
+        { "urun_adi": "Arpa/Buğday", "arz_ton": 1200, "talep_ton": 3650, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Usak": {
+      "il_adi": "Uşak",
+      "bolge": "Ege Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 2100,
+      "toplam_talep_ton": 2450,
+      "denge_yuzdesi": -14.28,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Buğday", "arz_ton": 980, "talep_ton": 1200, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Arpa", "arz_ton": 720, "talep_ton": 950, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Nohut", "arz_ton": 400, "talep_ton": 300, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" }
+      ]
+    },
+    "Afyonkarahisar": {
+      "il_adi": "Afyonkarahisar",
+      "bolge": "Ege/İç Anadolu Geçiş",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 7800,
+      "toplam_talep_ton": 8100,
+      "denge_yuzdesi": -3.7,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Haşhaş (Kapsül/Tohum)", "arz_ton": 3100, "talep_ton": 1200, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "TMO denetiminde üretilir, alkaloid fabrikası talebini karşılar." },
+        { "urun_adi": "Yem Bitkileri (Slajlık Mısır)", "arz_ton": 2800, "talep_ton": 4300, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Gelişmiş besi hayvancılığı ve entegre et/süt tesisleri yem talebini katlamaktadır." },
+        { "urun_adi": "Kiraz", "arz_ton": 1900, "talep_ton": 2600, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Sultandağı kirazı ihracat kalitesindedir." }
+      ]
+    },
+    "Kutahya": {
+      "il_adi": "Kütahya",
+      "bolge": "Ege Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 2900,
+      "toplam_talep_ton": 3150,
+      "denge_yuzdesi": -7.93,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Şeker Pancarı", "arz_ton": 1400, "talep_ton": 1600, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Buğday", "arz_ton": 950, "talep_ton": 1100, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Vişne", "arz_ton": 550, "talep_ton": 450, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Pazarlar ilçesi meyve suyu sanayisi için önemli bir arz noktasıdır." }
+      ]
+    },
+    "Ankara": {
+      "il_adi": "Ankara",
+      "bolge": "İç Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 11500,
+      "toplam_talep_ton": 12800,
+      "denge_yuzdesi": -10.15,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Buğday (Ekmeklik)", "arz_ton": 5400, "talep_ton": 6200, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Polatlı Ovası büyük üreticidir ancak metropol nüfus tüketim talebi açığa yol açar." },
+        { "urun_adi": "Kuru Soğan", "arz_ton": 3900, "talep_ton": 2400, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Türkiye'nin kışlık soğan arz deposudur." },
+        { "urun_adi": "Havuç", "arz_ton": 2200, "talep_ton": 4200, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Beypazarı ilçesi Türkiye havuç ihtiyacının büyük kısmını sırtlar." }
+      ]
+    },
+    "Konya": {
+      "il_adi": "Konya",
+      "bolge": "İç Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 28400,
+      "toplam_talep_ton": 19500,
+      "denge_yuzdesi": 45.64,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Ekmeklik/Makarnalık Buğday", "arz_ton": 14500, "talep_ton": 6500, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Türkiye'nin tahıl ambarıdır. Ulusal un ve bisküvi piyasasını besler." },
+        { "urun_adi": "Şeker Pancarı", "arz_ton": 9800, "talep_ton": 8200, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Bölgedeki şeker fabrikalarının ana hammadde tedarikçisidir." },
+        { "urun_adi": "Dane Mısır", "arz_ton": 4100, "talep_ton": 4800, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Kayseri": {
+      "il_adi": "Kayseri",
+      "bolge": "İç Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 4900,
+      "toplam_talep_ton": 5300,
+      "denge_yuzdesi": -7.54,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Buğday", "arz_ton": 2400, "talep_ton": 3100, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Çemen/Baharat Girdileri", "arz_ton": 1300, "talep_ton": 1800, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Pastırma endüstrisinin yüksek baharat talebi nedeniyle dışarıdan alım yapılır." },
+        { "urun_adi": "Çerezlik Kabak Çekirdeği", "arz_ton": 1200, "talep_ton": 400, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Develi ovası üretimi markalaşmıştır." }
+      ]
+    },
+    "Eskisehir": {
+      "il_adi": "Eskişehir",
+      "bolge": "İç Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 6400,
+      "toplam_talep_ton": 6150,
+      "denge_yuzdesi": 4.06,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Şeker Pancarı", "arz_ton": 3200, "talep_ton": 2800, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Arpa", "arz_ton": 1850, "talep_ton": 2400, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Meyve (Elma/Vişne)", "arz_ton": 1350, "talep_ton": 950, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" }
+      ]
+    },
+    "Sivas": {
+      "il_adi": "Sivas",
+      "bolge": "İç Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 5400,
+      "toplam_talep_ton": 5800,
+      "denge_yuzdesi": -6.89,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Yem Bitkileri (Korunga/Yonca)", "arz_ton": 2600, "talep_ton": 2900, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Yemeklik Patates", "arz_ton": 1800, "talep_ton": 1100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Ulaş ve Şarkışla ovalarında tohumluk ve yemeklik patates arzı güçlüdür." },
+        { "urun_adi": "Buğday", "arz_ton": 1000, "talep_ton": 1800, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Kirikkale": {
+      "il_adi": "Kırıkkale",
+      "bolge": "İç Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 1950,
+      "toplam_talep_ton": 2150,
+      "denge_yuzdesi": -9.3,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Buğday", "arz_ton": 1100, "talep_ton": 1400, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Arpa", "arz_ton": 650, "talep_ton": 550, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Kavun", "arz_ton": 200, "talep_ton": 200, "durum": "Dengede", "grafik_renk_kodu": "#4CAF50", "not": "Sulakyurt kavunu yerel pazarlarda talep görür." }
+      ]
+    },
+    "Kirsehir": {
+      "il_adi": "Kırşehir",
+      "bolge": "İç Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 2400,
+      "toplam_talep_ton": 2600,
+      "denge_yuzdesi": -7.69,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Arpa", "arz_ton": 1300, "talep_ton": 1100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Büyük besi işletmelerinin yem hammaddesini sağlar." },
+        { "urun_adi": "Buğday", "arz_ton": 850, "talep_ton": 1200, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Ceviz (Kaman Cevizi)", "arz_ton": 250, "talep_ton": 300, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "İnce kabuğu ile ulusal düzeyde yüksek talep açığı çeker." }
+      ]
+    },
+    "Nevsehir": {
+      "il_adi": "Nevşehir",
+      "bolge": "İç Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 3800,
+      "toplam_talep_ton": 3100,
+      "denge_yuzdesi": 22.58,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Yemeklik Patates", "arz_ton": 2200, "talep_ton": 600, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Yeraltı doğal kaya depoları sayesinde Türkiye geneline sürekli arz sağlar." },
+        { "urun_adi": "Çerezlik Kabak Çekirdeği", "arz_ton": 1100, "talep_ton": 900, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Üzüm (Sofralık/Endüstriyel)", "arz_ton": 500, "talep_ton": 1600, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Nigde": {
+      "il_adi": "Niğde",
+      "bolge": "İç Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 4300,
+      "toplam_talep_ton": 3900,
+      "denge_yuzdesi": 10.25,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Yemeklik Patates", "arz_ton": 2500, "talep_ton": 1400, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Türkiye'nin patates üretim lokomotiflerindendir." },
+        { "urun_adi": "Elma", "arz_ton": 1300, "talep_ton": 1100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Modern bodur elma bahçeleriyle arz kapasitesi büyümektedir." },
+        { "urun_adi": "Buğday", "arz_ton": 500, "talep_ton": 1400, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Aksaray": {
+      "il_adi": "Aksaray",
+      "bolge": "İç Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 3900,
+      "toplam_talep_ton": 4150,
+      "denge_yuzdesi": -6.02,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Yonca (Kaba Yem)", "arz_ton": 1900, "talep_ton": 1400, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Kaliteli yonca üretimiyle çevre illerdeki süt çiftliklerine arz yapar." },
+        { "urun_adi": "Şeker Pancarı", "arz_ton": 1200, "talep_ton": 1350, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Buğday", "arz_ton": 800, "talep_ton": 1400, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Cankiri": {
+      "il_adi": "Çankırı",
+      "bolge": "İç Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 1800,
+      "toplam_talep_ton": 1950,
+      "denge_yuzdesi": -7.69,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Çeltik (Pirinç)", "arz_ton": 950, "talep_ton": 600, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Kızılırmak havzasında kaliteli çeltik arzı gerçekleşir." },
+        { "urun_adi": "Buğday", "arz_ton": 600, "talep_ton": 950, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Arpa", "arz_ton": 250, "talep_ton": 400, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Yozgat": {
+      "il_adi": "Yozgat",
+      "bolge": "İç Anadolu Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 5200,
+      "toplam_talep_ton": 4900,
+      "denge_yuzdesi": 6.12,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Mercimek (Yeşil)", "arz_ton": 2400, "talep_ton": 1100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Türkiye yeşil mercimek üretim liderlerindendir, ulusal paketleme sanayisine gider." },
+        { "urun_adi": "Buğday", "arz_ton": 1800, "talep_ton": 2300, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Şeker Pancarı", "arz_ton": 1000, "talep_ton": 1500, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Bursa": {
+      "il_adi": "Bursa",
+      "bolge": "Marmara Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 11200,
+      "toplam_talep_ton": 11800,
+      "denge_yuzdesi": -5.08,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Şeftali / Nektarin", "arz_ton": 4800, "talep_ton": 2100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Meyve suyu fabrikaları ve taze ihracat pazarlarından büyük talep çeker." },
+        { "urun_adi": "Zeytin (Gemlik)", "arz_ton": 3900, "talep_ton": 3100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Coğrafi işaretli siyah sofralık zeytin arzının omurgasıdır." },
+        { "urun_adi": "Sanayi Tipi Domates", "arz_ton": 1600, "talep_ton": 4200, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Karacabey salça fabrikalarının yüksek kapasitesi dış illerden ürün çeker." },
+        { "urun_adi": "Armut (Santa Maria)", "arz_ton": 900, "talep_ton": 2400, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Balikesir": {
+      "il_adi": "Balıkesir",
+      "bolge": "Marmara/Ege Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 12800,
+      "toplam_talep_ton": 11900,
+      "denge_yuzdesi": 7.56,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Zeytin (Edremit Yağlık)", "arz_ton": 5400, "talep_ton": 3900, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Körfez bölgesinin yüksek kaliteli zeytinyağı arz merkezidir." },
+        { "urun_adi": "Çeltik (Pirinç)", "arz_ton": 4100, "talep_ton": 2800, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Gönen ovası ulusal pirinç pazarına yüksek arz sağlar." },
+        { "urun_adi": "Yem Bitkileri (Slajlık Mısır)", "arz_ton": 3300, "talep_ton": 5200, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Gelişmiş hayvancılık ve süt endüstrisi yem talebini çok yükseltir." }
+      ]
+    },
+    "Canakkale": {
+      "il_adi": "Çanakkale",
+      "bolge": "Marmara Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 6900,
+      "toplam_talep_ton": 5400,
+      "denge_yuzdesi": 27.77,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Ezine Domatesi", "arz_ton": 3800, "talep_ton": 1400, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Salçalık ve sofralık kalitesiyle ulusal taze pazar talebini karşılar." },
+        { "urun_adi": "Kapya Biber", "arz_ton": 2100, "talep_ton": 1600, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Yenice kapya biberi kurutma ve sanayi odağıdır." },
+        { "urun_adi": "Zeytin", "arz_ton": 1000, "talep_ton": 2400, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Edirne": {
+      "il_adi": "Edirne",
+      "bolge": "Marmara Bölgesi (Trakya)",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 15400,
+      "toplam_talep_ton": 8900,
+      "denge_yuzdesi": 73.03,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Çeltik (Pirinç)", "arz_ton": 8900, "talep_ton": 2100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Türkiye pirinç üretiminin yarıya yakınını Meriç havzası arz eder." },
+        { "urun_adi": "Yağlık Ayçiçeği", "arz_ton": 4300, "talep_ton": 3100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Trakya birlik ve yerel yağ rafinelerine hammadde sunar." },
+        { "urun_adi": "Buğday", "arz_ton": 2200, "talep_ton": 3700, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Kirklareli": {
+      "il_adi": "Kırklareli",
+      "bolge": "Marmara Bölgesi (Trakya)",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 7200,
+      "toplam_talep_ton": 6800,
+      "denge_yuzdesi": 5.88,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Yağlık Ayçiçeği", "arz_ton": 3900, "talep_ton": 2400, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Buğday", "arz_ton": 2400, "talep_ton": 2100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Mera/Kaba Yem Girdisi", "arz_ton": 900, "talep_ton": 2300, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Mandıracılık ve Kırklareli peyniri üretimi yem talebini tetikler." }
+      ]
+    },
+    "Tekirdag": {
+      "il_adi": "Tekirdağ",
+      "bolge": "Marmara Bölgesi (Trakya)",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 11400,
+      "toplam_talep_ton": 12800,
+      "denge_yuzdesi": -10.93,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Ekmeklik Buğday", "arz_ton": 5800, "talep_ton": 3100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Dönüm başına verimlilikte Türkiye'nin en yüksek buğday arz bölgelerindendir." },
+        { "urun_adi": "Yağlık Ayçiçeği", "arz_ton": 4200, "talep_ton": 5900, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Bölgedeki devasa bitkisel yağ kırma fabrikaları hammadde açığı yaratır." },
+        { "urun_adi": "Bağcılık Üzümü", "arz_ton": 1400, "talep_ton": 3800, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Kocaeli": {
+      "il_adi": "Kocaeli",
+      "bolge": "Marmara Bölgesi",
+      "genel_durum": "Talep Odaklı",
+      "toplam_arz_ton": 2100,
+      "toplam_talep_ton": 7200,
+      "denge_yuzdesi": -70.83,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Fındık", "arz_ton": 1100, "talep_ton": 400, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Kandıra bölgesindeki sahil şeridi fındık arzı sağlar." },
+        { "urun_adi": "Taze Sebze (Kandıra)", "arz_ton": 700, "talep_ton": 4500, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Sanayi metropol nüfusunun sebze taze tüketim talebi çevre illerden karşılanır." },
+        { "urun_adi": "Mısır (Slajlık)", "arz_ton": 300, "talep_ton": 2300, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Sakarya": {
+      "il_adi": "Sakarya",
+      "bolge": "Marmara Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 6800,
+      "toplam_talep_ton": 6100,
+      "denge_yuzdesi": 11.47,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Dane Mısır", "arz_ton": 3400, "talep_ton": 2100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Adapazarı ovası mısır üretiminde yüksek verimliliğe sahiptir." },
+        { "urun_adi": "Fındık", "arz_ton": 2100, "talep_ton": 600, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Kocaali ve Karasu ilçeleri Karadeniz kuşağı kadar güçlü arz yapar." },
+        { "urun_adi": "Süs Bitkileri (Endüstriyel)", "arz_ton": 1300, "talep_ton": 3400, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Yalova": {
+      "il_adi": "Yalova",
+      "bolge": "Marmara Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 1950,
+      "toplam_talep_ton": 1400,
+      "denge_yuzdesi": 39.28,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Kivi", "arz_ton": 1100, "talep_ton": 300, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Türkiye'nin en planlı ve kaliteli kivi arz havzalarındandır." },
+        { "urun_adi": "Sera Çiçekçiliği", "arz_ton": 600, "talep_ton": 200, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Taze Sebze", "arz_ton": 250, "talep_ton": 900, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Bilecik": {
+      "il_adi": "Bilecik",
+      "bolge": "Marmara/İç Anadolu Geçiş",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 2400,
+      "toplam_talep_ton": 2100,
+      "denge_yuzdesi": 14.28,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Şerbetçiotu (Endüstriyel Bitki)", "arz_ton": 1100, "talep_ton": 450, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Pazaryeri ilçesi Türkiye'de bu ürünün üretildiği tek merkezdir; bira sanayisine sunulur." },
+        { "urun_adi": "Domates (Sera/Açık)", "arz_ton": 800, "talep_ton": 650, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Buğday", "arz_ton": 500, "talep_ton": 1000, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Samsun": {
+      "il_adi": "Samsun",
+      "bolge": "Karadeniz Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 12400,
+      "toplam_talep_ton": 9800,
+      "denge_yuzdesi": 26.53,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Kışlık Sebze (Lahana/Pırasa)", "arz_ton": 5400, "talep_ton": 2100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Çarşamba ve Bafra delta ovaları Türkiye'nin kışlık sebze deposudur." },
+        { "urun_adi": "Çeltik (Pirinç)", "arz_ton": 3900, "talep_ton": 2400, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Tütün", "arz_ton": 1800, "talep_ton": 3100, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Bölgedeki sigara fabrikaları hammadde talebi oluşturur." },
+        { "urun_adi": "Fındık", "arz_ton": 1300, "talep_ton": 2200, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Ordu": {
+      "il_adi": "Ordu",
+      "bolge": "Karadeniz Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 11500,
+      "toplam_talep_ton": 3400,
+      "denge_yuzdesi": 238.23,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Fındık (Kabuklu)", "arz_ton": 9800, "talep_ton": 1100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Türkiye ve dünya fındık arz lideridir. İhracat hacmi devasadır." },
+        { "urun_adi": "Kivi", "arz_ton": 1200, "talep_ton": 800, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Mısır (Yerel Tüketim)", "arz_ton": 500, "talep_ton": 1500, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Giresun": {
+      "il_adi": "Giresun",
+      "bolge": "Karadeniz Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 8400,
+      "toplam_talep_ton": 2100,
+      "denge_yuzdesi": 300.0,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Fındık (Giresun Kalite)", "arz_ton": 7200, "talep_ton": 600, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Dünyanın en yüksek yağ oranına sahip fındık arzını sağlar." },
+        { "urun_adi": "Yaş Çay Yaprağı", "arz_ton": 900, "talep_ton": 650, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Eynesil ve Tirebolu ilçelerinde çay fabrikalarını besler." },
+        { "urun_adi": "Kaba Yem / Çayır", "arz_ton": 300, "talep_ton": 850, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Sinop": {
+      "il_adi": "Sinop",
+      "bolge": "Karadeniz Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 2100,
+      "toplam_talep_ton": 2300,
+      "denge_yuzdesi": -8.69,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Çeltik (Pirinç)", "arz_ton": 1100, "talep_ton": 600, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Boyabat ilçesinde yoğunlaşan nitelikli pirinç üretimi mevcuttur." },
+        { "urun_adi": "Fındık", "arz_ton": 600, "talep_ton": 450, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Buğday", "arz_ton": 400, "talep_ton": 1250, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Amasya": {
+      "il_adi": "Amasya",
+      "bolge": "Karadeniz Bölgesi (İç)",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 4900,
+      "toplam_talep_ton": 4300,
+      "denge_yuzdesi": 13.95,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Meyve (Amasya Elması/Kiraz)", "arz_ton": 2400, "talep_ton": 1100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Misket elması ve ihracatlık kiraz üretim gücü yüksektir." },
+        { "urun_adi": "Kuru Soğan", "arz_ton": 1600, "talep_ton": 950, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Suluova bölgesinde kışlık soğan arz kapasitesi güçlüdür." },
+        { "urun_adi": "Şeker Pancarı", "arz_ton": 900, "talep_ton": 2250, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Suluova Şeker Fabrikası'nın hammadde talebi çevre illerden çekilir." }
+      ]
+    },
+    "Tokat": {
+      "il_adi": "Tokat",
+      "bolge": "Karadeniz Bölgesi (İç)",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 5800,
+      "toplam_talep_ton": 5400,
+      "denge_yuzdesi": 7.4,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Bağ Yaprağı (Narince)", "arz_ton": 2100, "talep_ton": 600, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Erbaa salamura asma yaprağı coğrafi işaretli yüksek ticari arz kalemidir." },
+        { "urun_adi": "Domates (Açık Saha)", "arz_ton": 1900, "talep_ton": 1300, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Şeker Pancarı", "arz_ton": 1100, "talep_ton": 2100, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Turhal şeker fabrikası endüstriyel talebi tetikler." },
+        { "urun_adi": "Buğday", "arz_ton": 700, "talep_ton": 1400, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Corum": {
+      "il_adi": "Çorum",
+      "bolge": "Karadeniz Bölgesi (İç)",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 5100,
+      "toplam_talep_ton": 5600,
+      "denge_yuzdesi": -8.92,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Nohut", "arz_ton": 2400, "talep_ton": 3900, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Çorum leblebi sanayisinin devasa işleme hacmi nedeniyle hammadde açık verir." },
+        { "urun_adi": "Çeltik (Pirinç)", "arz_ton": 1600, "talep_ton": 900, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Osmancık pirinç türünün anavatanıdır ve markadır." },
+        { "urun_adi": "Buğday", "arz_ton": 1100, "talep_ton": 800, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" }
+      ]
+    },
+    "Zonguldak": {
+      "il_adi": "Zonguldak",
+      "bolge": "Batı Karadeniz Bölgesi",
+      "genel_durum": "Talep Odaklı",
+      "toplam_arz_ton": 1300,
+      "toplam_talep_ton": 2900,
+      "denge_yuzdesi": -55.17,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Fındık", "arz_ton": 800, "talep_ton": 300, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Ereğli ve Alaplı kırsalındaki fındık bahçeleri ana tarımsal arz kalemidir." },
+        { "urun_adi": "Sebze/Meyve (Taze)", "arz_ton": 350, "talep_ton": 1800, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Maden ve sanayi kenti nüfusunun tüketim ihtiyacı bölge dışından ikame edilir." },
+        { "urun_adi": "Mısır", "arz_ton": 150, "talep_ton": 800, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Karabuk": {
+      "il_adi": "Karabük",
+      "bolge": "Batı Karadeniz Bölgesi",
+      "genel_durum": "Talep Odaklı",
+      "toplam_arz_ton": 950,
+      "toplam_talep_ton": 1800,
+      "denge_yuzdesi": -47.22,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Safran (Tıbbi-Aromatik)", "arz_ton": 50, "talep_ton": 30, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Safranbolu'da sembolik değeri ve gramaj fiyatı çok yüksek arz kalemidir." },
+        { "urun_adi": "Yem Bitkileri", "arz_ton": 600, "talep_ton": 920, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Buğday", "arz_ton": 300, "talep_ton": 850, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Bartin": {
+      "il_adi": "Bartın",
+      "bolge": "Batı Karadeniz Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 1400,
+      "toplam_talep_ton": 1650,
+      "denge_yuzdesi": -15.15,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Fındık", "arz_ton": 750, "talep_ton": 350, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Örtüaltı Sebze (Sera)", "arz_ton": 450, "talep_ton": 900, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" },
+        { "urun_adi": "Mısır", "arz_ton": 200, "talep_ton": 400, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Kastamonu": {
+      "il_adi": "Kastamonu",
+      "bolge": "Batı Karadeniz Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 4300,
+      "toplam_talep_ton": 4100,
+      "denge_yuzdesi": 4.87,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Taşköprü Sarımsağı", "arz_ton": 2100, "talep_ton": 600, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Kuru madde oranı en yüksek, endüstriyel ilaç/gıda sanayi talep odaklı ulusal liderdir." },
+        { "urun_adi": "Çeltik (Pirinç)", "arz_ton": 1300, "talep_ton": 950, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Tosya pirinci iç piyasada yüksek marka değerine sahiptir." },
+        { "urun_adi": "Buğday", "arz_ton": 900, "talep_ton": 2550, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Bolu": {
+      "il_adi": "Bolu",
+      "bolge": "Batı Karadeniz (Geçiş)",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 3900,
+      "toplam_talep_ton": 4350,
+      "denge_yuzdesi": -10.34,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Kanatlı Hayvan Yemi (Karma Yem)", "arz_ton": 1800, "talep_ton": 3200, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Bolu entegre beyaz et (tavukçuluk) tesislerinin merkezidir; yem hammaddesi dışarıdan çekilir." },
+        { "urun_adi": "Yemeklik Patates", "arz_ton": 1400, "talep_ton": 700, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Mudurnu ve Göynük ovalarında patates üretimi güçlüdür." },
+        { "urun_adi": "Buğday", "arz_ton": 700, "talep_ton": 450, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" }
+      ]
+    },
+    "Duzce": {
+      "il_adi": "Düzce",
+      "bolge": "Batı Karadeniz Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 5400,
+      "toplam_talep_ton": 2400,
+      "denge_yuzdesi": 125.0,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Fındık", "arz_ton": 4200, "talep_ton": 600, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Düzce ovası kenar kuşakları yoğun fındık dikim alanıdır; tüccar talebi yüksektir." },
+        { "urun_adi": "Dane Mısır", "arz_ton": 900, "talep_ton": 750, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50" },
+        { "urun_adi": "Taze Sebze", "arz_ton": 300, "talep_ton": 1050, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Antalya": {
+      "il_adi": "Antalya",
+      "bolge": "Akdeniz Bölgesi",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 19800,
+      "toplam_talep_ton": 12400,
+      "denge_yuzdesi": 59.67,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Sera Domatesi/Biber", "arz_ton": 9800, "talep_ton": 3100, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Kumluca ve Aksu seraları Türkiye'nin kışlık örtüaltı sebze arz merkezidir; ihracat çok yoğundur." },
+        { "urun_adi": "Narenciye (Portakal/Muz)", "arz_ton": 6400, "talep_ton": 4300, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Finike portakalı ve Alanya muzu arz yükünü taşır." },
+        { "urun_adi": "Avokado / Tropikal Meyveler", "arz_ton": 2100, "talep_ton": 1200, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Gazipaşa ilçesi tropikal meyve arzında Türkiye birincisidir." },
+        { "urun_adi": "Buğday", "arz_ton": 1500, "talep_ton": 3800, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    },
+    "Burdur": {
+      "il_adi": "Burdur",
+      "bolge": "Akdeniz Bölgesi (Göller Yöresi)",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 4800,
+      "toplam_talep_ton": 5200,
+      "denge_yuzdesi": -7.69,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Yem Bitkileri (Yonca/Mısır Slajı)", "arz_ton": 2400, "talep_ton": 3900, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800", "not": "Türkiye'nin en yoğun damızlık süt sığırcılığı merkezlerinden biri olduğundan kaba yeme talep aşırıdır." },
+        { "urun_adi": "Tarımsal Girdi (Gül/Lavanta Tohumu)", "arz_ton": 1300, "talep_ton": 450, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Kozmetik sanayi için esansiyel hammadde arz eder." },
+        { "urun_adi": "Anason", "arz_ton": 1100, "talep_ton": 850, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Damıtma sanayisi ve içki fabrikalarından yüksek talep alır." }
+      ]
+    },
+    "Isparta": {
+      "il_adi": "Isparta",
+      "bolge": "Akdeniz Bölgesi (Göller Yöresi)",
+      "genel_durum": "Dengede",
+      "toplam_arz_ton": 7200,
+      "toplam_talep_ton": 4900,
+      "denge_yuzdesi": 46.93,
+      "gercek_urun_arz_talep_verileri": [
+        { "urun_adi": "Elma", "arz_ton": 4300, "talep_ton": 1800, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Eğirdir gölü çevresi Türkiye elma rekolte ve soğuk depo arz liderlerindendir." },
+        { "urun_adi": "Endüstriyel Yağlık Gül", "arz_ton": 1800, "talep_ton": 500, "durum": "Arz Fazlası", "grafik_renk_kodu": "#4CAF50", "not": "Dünya gülyağı piyasasının tek başına en büyük hammadde arz sağlayıcısıdır." },
+        { "urun_adi": "Buğday/Arpa", "arz_ton": 1100, "talep_ton": 2600, "durum": "Talep Fazlası (Arz Açığı)", "grafik_renk_kodu": "#FF9800" }
+      ]
+    }
+  }
+}
